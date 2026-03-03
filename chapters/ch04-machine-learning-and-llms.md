@@ -272,6 +272,15 @@ Most businesses do not need to build their own data centers. Cloud computing pla
   - OCI AI Services, Oracle Machine Learning
 :::
 
+:::{figure} ../images/ch04-cloud-platforms-comparison.png
+:label: fig-ch04-cloud-comparison
+:alt: Professional textbook illustration comparing major cloud computing platforms for AI — AWS, Microsoft Azure, and Google Cloud Platform — showing market share, key AI services, and strengths. Clean modern infographic style with blue and orange color scheme.
+:width: 80%
+:align: center
+
+The three dominant cloud computing platforms — AWS, Azure, and Google Cloud — each offering comprehensive AI and machine learning services that power enterprise AI deployments.
+:::
+
 :::{note}
 **For This Course:** You will primarily interact with AI through user-friendly interfaces (ChatGPT, Gemini, Claude) rather than cloud platforms. However, understanding that these tools run on massive cloud infrastructure helps you appreciate the costs, capabilities, and limitations of AI services — and make better business decisions about AI adoption.
 :::
@@ -424,6 +433,15 @@ graph LR
     
     style A fill:#f0f4ff,stroke:#3366cc,color:#000
     style E fill:#e6ffe6,stroke:#339933,color:#000
+:::
+
+:::{figure} ../images/ch04-llm-training-process.png
+:label: fig-ch04-llm-training-process
+:alt: Professional textbook illustration showing the LLM training process as a horizontal pipeline — from massive text data collection through tokenization, transformer pre-training, RLHF fine-tuning, to final deployment. Clean modern infographic style with blue and orange color scheme.
+:width: 80%
+:align: center
+
+The LLM training pipeline — from raw internet text through tokenization, pre-training on transformer architecture, fine-tuning with human feedback, to the deployed model you interact with.
 :::
 
 **Key concepts:**
