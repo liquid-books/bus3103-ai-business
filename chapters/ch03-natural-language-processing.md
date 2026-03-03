@@ -834,6 +834,15 @@ For more on how large language models power these NLP applications, see [Chapter
 
 For business leaders considering NLP investments, a structured approach to measuring return on investment is essential:
 
+:::{figure} ../images/ch03-nlp-roi-framework.png
+:label: fig-ch03-nlp-roi
+:alt: Professional textbook illustration of an NLP ROI framework showing five dimensions — Cost Reduction, Revenue Growth, Speed, Quality, and Insight — with example metrics and improvements. Clean modern infographic style with blue and orange color scheme.
+:width: 80%
+:align: center
+
+A strategic framework for measuring the return on investment of NLP implementations across five key business dimensions.
+:::
+
 :::{list-table} NLP ROI Framework
 :label: tbl-ch03-nlp-roi
 :header-rows: 1
