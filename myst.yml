@@ -49,18 +49,26 @@ project:
     - file: index.md
     - title: "Part I: Foundations of AI"
       children:
-        - file: chapters/ch01-introduction-to-ai-in-business.md
-        - file: chapters/ch02-evolution-of-ai-and-deep-learning.md
+        - title: "Chapter 1: Introduction to AI in Business"
+          file: chapters/ch01-introduction-to-ai-in-business.md
+        - title: "Chapter 2: Evolution of AI & Deep Learning"
+          file: chapters/ch02-evolution-of-ai-and-deep-learning.md
     - title: "Part II: Core AI Technologies"
       children:
-        - file: chapters/ch03-natural-language-processing.md
-        - file: chapters/ch04-machine-learning-and-llms.md
-        - file: chapters/ch05-computer-vision-and-ai-generated-content.md
+        - title: "Chapter 3: Natural Language Processing"
+          file: chapters/ch03-natural-language-processing.md
+        - title: "Chapter 4: Machine Learning & Large Language Models"
+          file: chapters/ch04-machine-learning-and-llms.md
+        - title: "Chapter 5: Computer Vision & AI-Generated Content"
+          file: chapters/ch05-computer-vision-and-ai-generated-content.md
     - title: "Part III: Responsibility, Security & the Future"
       children:
-        - file: chapters/ch06-ai-ethics-bias-and-digital-responsibility.md
-        - file: chapters/ch07-robotics-and-ai-cybersecurity.md
-        - file: chapters/ch08-ai-applications-and-the-future-of-work.md
+        - title: "Chapter 6: AI Ethics, Bias & Digital Responsibility"
+          file: chapters/ch06-ai-ethics-bias-and-digital-responsibility.md
+        - title: "Chapter 7: Robotics & AI Cybersecurity"
+          file: chapters/ch07-robotics-and-ai-cybersecurity.md
+        - title: "Chapter 8: AI Applications & the Future of Work"
+          file: chapters/ch08-ai-applications-and-the-future-of-work.md
 
 site:
   title: "AI for Business Innovation: Navigating Artificial Intelligence with Purpose and Principle"
