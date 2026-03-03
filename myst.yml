@@ -1,0 +1,71 @@
+# MyST project configuration
+# Docs: https://mystmd.org/guide/configuration
+version: 1
+project:
+  title: "AI for Business Innovation: Navigating Artificial Intelligence with Purpose and Principle"
+  authors:
+    - name: Dr. Ernesto Lee
+  subtitle: "BUS 3103 — Selected Topics in Business: Artificial Intelligence"
+  description: |
+    A comprehensive textbook for BUS 3103 at Palm Beach Atlantic University, exploring artificial
+    intelligence through the lens of business innovation and Christian stewardship. Covers AI fundamentals,
+    machine learning, NLP, computer vision, ethics, robotics, cybersecurity, and the future of work.
+  keywords:
+    - artificial intelligence
+    - business innovation
+    - machine learning
+    - deep learning
+    - natural language processing
+    - computer vision
+    - AI ethics
+    - robotics
+    - cybersecurity
+    - Christian business education
+  abbreviations:
+    AI: Artificial Intelligence
+    ML: Machine Learning
+    NLP: Natural Language Processing
+    LLM: Large Language Model
+    API: Application Programming Interface
+    CNN: Convolutional Neural Network
+    RNN: Recurrent Neural Network
+    IoT: Internet of Things
+    ROI: Return on Investment
+    NLU: Natural Language Understanding
+    GPT: Generative Pre-trained Transformer
+  license: CC-BY-4.0
+  open_access: true
+  github: https://github.com/liquid-books/bus3103-ai-business
+  # Numbering
+  numbering:
+    heading_1: true
+    heading_2: true
+    heading_3: true
+    figure: true
+    table: true
+    equation: true
+  # Table of contents — chapters added here as they are written
+  toc:
+    - file: index.md
+    - title: "Part I: Foundations of AI"
+      children:
+        - file: chapters/ch01-introduction-to-ai-in-business.md
+        - file: chapters/ch02-evolution-of-ai-and-deep-learning.md
+    - title: "Part II: Core AI Technologies"
+      children:
+        - file: chapters/ch03-natural-language-processing.md
+        - file: chapters/ch04-machine-learning-and-llms.md
+        - file: chapters/ch05-computer-vision-and-ai-generated-content.md
+    - title: "Part III: Responsibility, Security & the Future"
+      children:
+        - file: chapters/ch06-ai-ethics-bias-and-digital-responsibility.md
+        - file: chapters/ch07-robotics-and-ai-cybersecurity.md
+        - file: chapters/ch08-ai-applications-and-the-future-of-work.md
+
+site:
+  title: "AI for Business Innovation: Navigating Artificial Intelligence with Purpose and Principle"
+  options:
+    logo_text: "AI for Business Innovation: Navigating Artificial Intelligence with Purpose and Principle"
+    logo_url: "/"
+  parts:
+    primary_sidebar_footer: primary-sidebar-footer.md
