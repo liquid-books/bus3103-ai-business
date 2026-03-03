@@ -52,6 +52,15 @@ The story of AI begins with one of the most brilliant minds of the twentieth cen
 Proposed by Alan Turing in his 1950 paper "Computing Machinery and Intelligence," the Turing Test evaluates a machine's ability to exhibit intelligent behavior indistinguishable from a human. In the test, a human evaluator engages in natural language conversations with both a human and a machine. If the evaluator cannot reliably distinguish the machine from the human, the machine is said to have passed the test.
 :::
 
+:::{figure} ../images/ch02-turing-test-concept.png
+:label: fig-ch02-turing-test
+:alt: Diagram illustrating the Turing Test with a human evaluator communicating via text with a human and a computer behind a screen
+:width: 80%
+:align: center
+
+The Turing Test — a human evaluator converses with both a human and a machine through text. If the evaluator cannot reliably tell which is the machine, it is said to have passed the test.
+:::
+
 In 1950, Turing published his landmark paper "Computing Machinery and Intelligence" in the journal *Mind*. Rather than attempting to define "intelligence" directly — a philosophical quagmire — Turing proposed a practical test. He framed the central question not as "Can machines think?" but as "Can machines do what we (as thinking entities) can do?" This pragmatic approach transformed an abstract philosophical debate into a concrete, testable proposition.
 
 Turing's paper also anticipated many of the arguments that would be raised against AI over the following decades. He addressed objections ranging from "machines can't be conscious" to "machines can never surprise us" to theological objections about the uniqueness of the human soul. His responses remain remarkably relevant today.
@@ -386,6 +395,15 @@ Key innovations unlocked deep learning's potential: better activation functions 
 :::
 ::::
 
+:::{figure} ../images/ch02-deep-learning-vs-traditional-ml.png
+:label: fig-ch02-dl-vs-ml
+:alt: Side-by-side comparison of Traditional Machine Learning pipeline with manual feature engineering versus Deep Learning pipeline with automatic feature extraction
+:width: 80%
+:align: center
+
+Traditional Machine Learning requires manual feature engineering by domain experts, while Deep Learning automatically learns features from raw data through successive neural network layers — a key advantage that enabled the current AI revolution.
+:::
+
 ### Geoffrey Hinton and the Deep Learning Breakthrough
 
 :::{prf:definition} Deep Learning
@@ -530,6 +548,15 @@ NLP has undergone a dramatic transformation thanks to deep learning. Traditional
 
 The 2017 paper "Attention Is All You Need" by Vaswani et al. introduced the **transformer architecture**, which fundamentally changed NLP and eventually all of AI. The key innovation was the **self-attention mechanism**, which allows the model to consider the relationships between all words in a sentence simultaneously, rather than processing them one at a time.
 
+:::{figure} ../images/ch02-transformer-attention-mechanism.png
+:label: fig-ch02-attention
+:alt: Simplified diagram of the transformer self-attention mechanism showing how words in a sentence attend to each other with varying weights
+:width: 80%
+:align: center
+
+The self-attention mechanism in action — the transformer model learns which words in a sentence are most relevant to each other, enabling it to understand context and meaning far better than previous approaches.
+:::
+
 This architecture enabled:
 - **BERT (2018):** Google's bidirectional model that understood language context in both directions, achieving state-of-the-art results on virtually every NLP benchmark
 - **GPT-2 (2019):** OpenAI's text generation model, so capable that OpenAI initially withheld it from public release over concerns about misuse
@@ -592,6 +619,15 @@ Key AI milestones that transformed business possibilities. Each breakthrough ope
 ## Understanding Neural Networks: A Business-Friendly Explanation
 
 ### How Neural Networks Learn
+
+:::{figure} ../images/ch02-neural-network-layers-detailed.png
+:label: fig-ch02-nn-detailed
+:alt: Detailed neural network diagram showing input layer, hidden layers, and output layer with a zoom-in on a single neuron showing weights, bias, and activation function
+:width: 80%
+:align: center
+
+A detailed view of a neural network's architecture, with a close-up of how a single artificial neuron processes its inputs — multiplying by weights, adding bias, and applying an activation function to produce output.
+:::
 
 You don't need to implement neural networks to be an effective business leader — but you do need to understand conceptually how they work. Here is a business-friendly explanation:
 
@@ -712,6 +748,15 @@ Netflix's recommendation engine is one of the most successful AI applications in
 The deep learning models learn complex, non-obvious relationships — for example, that people who watched a specific documentary on a Tuesday evening are likely to enjoy a particular foreign thriller on weekend mornings. These patterns are too subtle and numerous for humans to identify, but deep learning excels at finding them.
 
 ## AI Summers and Winters: Lessons for Today
+
+:::{figure} ../images/ch02-ai-summers-winters-funding.png
+:label: fig-ch02-summers-winters
+:alt: Wave diagram showing AI funding and enthusiasm from 1950 to 2025 with peaks during AI summers and valleys during AI winters
+:width: 80%
+:align: center
+
+The dramatic cycles of AI funding and enthusiasm over seven decades — from early optimism through two AI winters to the current deep learning boom. Understanding these cycles helps business leaders evaluate today's AI investments with historical perspective.
+:::
 
 ### Are We in an AI Bubble?
 

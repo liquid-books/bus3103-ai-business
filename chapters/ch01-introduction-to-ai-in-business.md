@@ -56,6 +56,15 @@ The term "artificial intelligence" was coined in 1956 by John McCarthy at the Da
 
 But defining AI precisely is more challenging than it appears. The field encompasses a vast range of technologies, from simple rule-based systems that follow pre-programmed instructions to sophisticated deep learning models that can generate human-like text, create photorealistic images, and even write computer code. To make sense of this landscape, we need to understand several key distinctions.
 
+:::{figure} ../images/ch01-ai-categories-hierarchy.png
+:label: fig-ch01-ai-categories
+:alt: Hierarchical diagram showing AI categories from Artificial Intelligence to Machine Learning to Deep Learning to Generative AI, with Narrow AI, General AI, and Superintelligence spectrum
+:width: 80%
+:align: center
+
+The hierarchy of AI categories — from the broadest concept of Artificial Intelligence down to specific subfields like Machine Learning, Deep Learning, and Generative AI. Understanding this hierarchy is essential for evaluating AI tools and solutions.
+:::
+
 ### Narrow AI vs. General AI
 
 ::::{tab-set}
@@ -318,6 +327,15 @@ Large language models (LLMs) like ChatGPT are built on the transformer architect
 
 ### The Business Case for AI
 
+:::{figure} ../images/ch01-business-automation-spectrum.png
+:label: fig-ch01-automation-spectrum
+:alt: Business automation spectrum showing progression from manual processes through rule-based automation, ML-assisted, AI-augmented decision making, to autonomous AI systems
+:width: 80%
+:align: center
+
+The business automation spectrum — from fully manual processes to autonomous AI systems. Most organizations today are somewhere in the middle, using AI to augment rather than replace human decision-making.
+:::
+
 Why are businesses investing billions of dollars in AI? The answer lies in AI's ability to enhance efficiency, improve decision-making, personalize customer experiences, and create entirely new products and services.
 
 :::{list-table} AI Business Impact by Function
@@ -393,6 +411,15 @@ Zara, the Spanish fashion retailer, uses AI throughout its supply chain to maint
 **Demand Forecasting.** Machine learning models predict demand for each SKU at each store location, enabling Zara to produce smaller initial batches and restock quickly based on actual sales data, rather than overproducing based on forecasts.
 
 **Dynamic Pricing.** AI algorithms optimize markdown timing and pricing to maximize revenue while clearing inventory efficiently.
+
+:::{figure} ../images/ch01-industry-ai-applications.png
+:label: fig-ch01-industry-applications
+:alt: Grid showing AI applications across six industry sectors — healthcare, finance, retail, manufacturing, marketing, and HR — with specific use cases for each
+:width: 80%
+:align: center
+
+AI applications across major industry sectors. Every business function is being transformed by AI, creating opportunities for competitive advantage and operational efficiency.
+:::
 
 ### Small Business AI Applications
 
@@ -616,6 +643,15 @@ the action items.
 
 AI systems are fundamentally data-driven. They learn from data, they process data, and they make decisions based on data. This creates inherent privacy concerns that every business professional must understand.
 
+:::{figure} ../images/ch01-privacy-data-lifecycle.png
+:label: fig-ch01-privacy-lifecycle
+:alt: Circular data privacy lifecycle diagram showing stages from data collection through storage, AI processing, analysis, sharing, and deletion with regulatory checkpoints
+:width: 80%
+:align: center
+
+The data privacy lifecycle in AI-driven organizations. Each stage presents unique privacy considerations and regulatory requirements that business leaders must understand and manage.
+:::
+
 #### Data Collection and Consent
 
 Modern AI systems often require vast amounts of data to function effectively. This data frequently includes personal information — customer purchase histories, browsing behavior, demographic information, health records, financial data, and more. The ethical and legal questions surrounding this data are profound:
@@ -680,6 +716,15 @@ AI bias refers to systematic errors in AI system outputs that result in unfair o
 :::
 
 AI bias is one of the most critical challenges facing businesses deploying AI systems. Because AI learns from historical data — and historical data reflects historical inequities — AI systems can perpetuate, amplify, and even automate discrimination.
+
+:::{figure} ../images/ch01-ai-bias-sources.png
+:label: fig-ch01-bias-sources
+:alt: Diagram showing four sources of AI bias — data bias, algorithmic bias, human bias, and societal bias — flowing into an AI system and producing biased outputs
+:width: 80%
+:align: center
+
+The four primary sources of AI bias and how they propagate through the AI pipeline. Understanding these sources is the first step toward building fairer AI systems.
+:::
 
 #### Sources of AI Bias
 
