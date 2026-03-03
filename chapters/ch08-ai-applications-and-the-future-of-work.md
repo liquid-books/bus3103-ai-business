@@ -682,6 +682,15 @@ AI literacy is the ability to understand, evaluate, and effectively use AI syste
 
 **The skills that matter most in an AI-powered economy:**
 
+:::{figure} ../images/ch08-ai-skills-framework.png
+:label: fig-ch08-skills-framework
+:alt: Professional illustration of critical skills for the AI era showing a pyramid with foundational AI literacy at base, domain expertise in middle, and uniquely human skills at top
+:width: 80%
+:align: center
+
+The AI-era skills pyramid — foundational AI literacy supports domain expertise, which is topped by the uniquely human capabilities that become more valuable as AI automates routine cognitive tasks.
+:::
+
 :::{list-table} Critical Skills for the AI Era
 :label: tbl-ch08-ai-skills
 :header-rows: 1
@@ -779,11 +788,29 @@ graph TD
 :::
 ::::
 
+:::{figure} ../images/ch08-t-shaped-professional.png
+:label: fig-ch08-t-shaped
+:alt: Professional diagram of the T-shaped professional concept showing broad knowledge across AI, business, and communication as the horizontal bar and deep domain expertise as the vertical bar
+:width: 80%
+:align: center
+
+The T-shaped professional — broad cross-functional knowledge combined with deep expertise in one specific domain creates the most valuable profile in the AI era.
+:::
+
 :::{tip}
 **The T-Shaped Professional:** The most valuable AI-era professionals have a "T-shaped" skill profile: broad knowledge across AI, business, and communication (the horizontal bar of the T), combined with deep expertise in one specific area (the vertical bar). Whether your deep expertise is in finance, healthcare, marketing, or engineering, adding AI literacy to your skill set multiplies your value dramatically.
 :::
 
 ## The Christian Perspective: Flourishing in an Age of AI
+
+:::{figure} ../images/ch08-christian-ai-flourishing.png
+:label: fig-ch08-flourishing
+:alt: Professional illustration representing Christian values and AI flourishing with technology and faith paths converging, biblical themes of stewardship and human dignity
+:width: 80%
+:align: center
+
+Faith and technology converging — Christian values of stewardship, wisdom, and human dignity provide an essential moral compass for navigating the AI revolution with purpose and principle.
+:::
 
 ### Called to Flourish
 
