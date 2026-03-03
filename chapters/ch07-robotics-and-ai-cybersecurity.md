@@ -762,6 +762,15 @@ Adversarial AI is perhaps the most intellectually fascinating and practically te
   - High
 :::
 
+:::{figure} ../images/ch07-adversarial-ai-examples.png
+:label: fig-ch07-adversarial-examples
+:alt: Professional illustration showing three adversarial AI attack examples - a perturbed stop sign fooling computer vision, prompt injection on an LLM, and data poisoning of a training dataset
+:width: 80%
+:align: center
+
+Adversarial AI attacks exploit the mathematical properties of AI models — from imperceptible image perturbations that fool computer vision to carefully crafted prompts that override LLM safety guardrails.
+:::
+
 **Real-world adversarial AI examples:**
 
 :::{dropdown} Autonomous Vehicle Attacks
@@ -811,6 +820,15 @@ graph TD
     style D fill:#f3e5f5,stroke:#7b1fa2
     style E fill:#fce4ec,stroke:#c62828
     style F fill:#e0f2f1,stroke:#00695c
+:::
+
+:::{figure} ../images/ch07-layered-security-strategy.png
+:label: fig-ch07-layered-strategy
+:alt: Professional illustration of a layered AI cybersecurity defense strategy showing concentric layers from perimeter defense through AI-powered detection, endpoint protection, AI model security, human layer, and governance
+:width: 80%
+:align: center
+
+A layered cybersecurity defense strategy — effective protection requires multiple overlapping defenses, from traditional perimeter security through AI-powered detection to human training and governance frameworks.
 :::
 
 :::{important}
