@@ -8,6 +8,7 @@ project:
   exports:
     - format: pdf
       article: true
+      output: ai-for-business-innovation.pdf
   subtitle: "BUS 3103 — Selected Topics in Business: Artificial Intelligence"
   description: |
     A comprehensive textbook for BUS 3103 at Palm Beach Atlantic University, exploring artificial
@@ -78,10 +79,6 @@ site:
   options:
     logo_text: "AI for Business Innovation: Navigating Artificial Intelligence with Purpose and Principle"
     logo_url: "/bus3103-ai-business/"
-  # Enable PDF downloads in the UI
-  exports:
-    - format: pdf
-      article: true
-      output: ai-for-business-innovation.pdf
+    download: true
   parts:
     primary_sidebar_footer: primary-sidebar-footer.md

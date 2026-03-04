@@ -35,9 +35,10 @@ jobs:
       - name: Build HTML and PDF Assets
         run: |
           myst build --html
-          myst build --pdf
+          myst build --pdf --typst
           mkdir -p _build/html/exports
-          cp _build/pdf/*.pdf _build/html/ || true
+          cp _build/exports/*.pdf _build/html/exports/ || true
+          cp _build/exports/*.pdf _build/html/ || true
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
