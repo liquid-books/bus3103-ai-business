@@ -42,10 +42,12 @@ jobs:
       - name: Build HTML and PDF Assets
         run: |
           myst build --html
-          myst build --pdf
+          # Try to build PDF with typst explicitly
+          myst build --pdf --typst --all
           mkdir -p _build/html/exports
-          cp -r _build/exports/*.pdf _build/html/exports/ || true
-          cp -r _build/exports/*.pdf _build/html/ || true
+          # MyST exports often go to _build/exports/
+          find _build/exports -name "*.pdf" -exec cp {} _build/html/exports/ \; || true
+          find _build/exports -name "*.pdf" -exec cp {} _build/html/ \; || true
           # Debug output
           ls -R _build
       - name: Upload artifact
