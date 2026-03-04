@@ -5,6 +5,9 @@ project:
   title: "AI for Business Innovation: Navigating Artificial Intelligence with Purpose and Principle"
   authors:
     - name: Dr. Ernesto Lee
+  exports:
+    - format: pdf
+      article: true
   subtitle: "BUS 3103 — Selected Topics in Business: Artificial Intelligence"
   description: |
     A comprehensive textbook for BUS 3103 at Palm Beach Atlantic University, exploring artificial
@@ -80,6 +83,6 @@ site:
     - format: pdf
       template: lapreprint
       article: true
-      output: exports/book.pdf
+      output: exports/ai-for-business-innovation.pdf
   parts:
     primary_sidebar_footer: primary-sidebar-footer.md
