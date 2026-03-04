@@ -32,17 +32,22 @@ jobs:
           node-version: 18.x
       - name: Install MyST and Typst
         run: |
-          npm install -g mystmd
-          curl -Lo typst.tar.xz https://github.com/typst/typst/releases/download/v0.11.1/typst-x86_64-unknown-linux-musl.tar.xz
-          tar -xJf typst.tar.xz
-          sudo cp typst-x86_64-unknown-linux-musl/typst /usr/local/bin/ || cp typst-x86_64-unknown-linux-musl/typst /home/node/.local/bin/
+          npm install -g mystmd typst
+          # Try to get typst binary if npm package doesn't provide it
+          if ! command -v typst &> /dev/null; then
+            curl -Lo typst.tar.xz https://github.com/typst/typst/releases/download/v0.11.1/typst-x86_64-unknown-linux-musl.tar.xz
+            tar -xJf typst.tar.xz
+            sudo cp typst-x86_64-unknown-linux-musl/typst /usr/local/bin/ || cp typst-x86_64-unknown-linux-musl/typst /home/node/.local/bin/
+          fi
       - name: Build HTML and PDF Assets
         run: |
           myst build --html
           myst build --pdf
           mkdir -p _build/html/exports
           cp -r _build/exports/*.pdf _build/html/exports/ || true
-          cp _build/exports/*.pdf _build/html/ || true
+          cp -r _build/exports/*.pdf _build/html/ || true
+          # Debug output
+          ls -R _build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
