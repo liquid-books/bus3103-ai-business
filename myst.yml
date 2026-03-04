@@ -36,9 +36,10 @@ project:
   license: CC-BY-4.0
   open_access: true
   github: https://github.com/liquid-books/bus3103-ai-business
-  # Enable PDF downloads
   exports:
     - format: pdf
+      article: index.md
+      output: ai-for-business-innovation.pdf
   # Numbering
   numbering:
     heading_1: true
@@ -77,6 +78,6 @@ site:
   title: "AI for Business Innovation: Navigating Artificial Intelligence with Purpose and Principle"
   options:
     logo_text: "AI for Business Innovation: Navigating Artificial Intelligence with Purpose and Principle"
-    logo_url: "/bus3103-ai-business/"
+    logo_url: "https://liquid-books.github.io/bus3103-ai-business/"
   parts:
     primary_sidebar_footer: primary-sidebar-footer.md
