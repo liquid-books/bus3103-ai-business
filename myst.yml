@@ -78,11 +78,10 @@ site:
   options:
     logo_text: "AI for Business Innovation: Navigating Artificial Intelligence with Purpose and Principle"
     logo_url: "/bus3103-ai-business/"
-  # Enable PDF downloads
+  # Enable PDF downloads in the UI
   exports:
     - format: pdf
-      template: lapreprint
       article: true
-      output: exports/ai-for-business-innovation.pdf
+      output: ai-for-business-innovation.pdf
   parts:
     primary_sidebar_footer: primary-sidebar-footer.md
