@@ -30,14 +30,18 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 18.x
-      - name: Install MyST Markdown
-        run: npm install -g mystmd
+      - name: Install MyST and Typst
+        run: |
+          npm install -g mystmd
+          curl -Lo typst.tar.xz https://github.com/typst/typst/releases/download/v0.11.1/typst-x86_64-unknown-linux-musl.tar.xz
+          tar -xJf typst.tar.xz
+          sudo cp typst-x86_64-unknown-linux-musl/typst /usr/local/bin/ || cp typst-x86_64-unknown-linux-musl/typst /home/node/.local/bin/
       - name: Build HTML and PDF Assets
         run: |
           myst build --html
-          myst build --pdf --typst
+          myst build --pdf
           mkdir -p _build/html/exports
-          cp _build/exports/*.pdf _build/html/exports/ || true
+          cp -r _build/exports/*.pdf _build/html/exports/ || true
           cp _build/exports/*.pdf _build/html/ || true
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
