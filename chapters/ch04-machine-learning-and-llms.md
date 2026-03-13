@@ -1035,7 +1035,7 @@ With multiple powerful LLMs available — ChatGPT, Claude, Gemini, Perplexity, J
 
 ## Module 4 Written Analysis: LLM Business Implementation Plan
 
-:::{exercise} Module 4 Written Analysis
+::::{exercise} Module 4 Written Analysis
 :label: ex-ch04-written-analysis
 
 **Assignment: LLM Business Implementation Plan**
@@ -1045,7 +1045,6 @@ With multiple powerful LLMs available — ChatGPT, Claude, Gemini, Perplexity, J
 **Instructions:**
 
 :::{dropdown} Step 1: Define the Business Context (10 minutes)
-:open: true
 
 Choose or create a business scenario:
 - **Company:** Name, industry, size (employees and revenue), key challenges
@@ -1056,7 +1055,6 @@ Example: "TechServe Inc., a 200-employee IT managed services company ($50M reven
 :::
 
 :::{dropdown} Step 2: LLM Selection and Justification (15 minutes)
-:open: true
 
 Select one LLM platform and justify your choice:
 1. Compare at least **three** LLM options against your specific requirements
@@ -1076,7 +1074,6 @@ Select one LLM platform and justify your choice:
 :::
 
 :::{dropdown} Step 3: Implementation Plan (20 minutes)
-:open: true
 
 Create a phased implementation plan:
 
@@ -1096,7 +1093,6 @@ Include specific milestones and deliverables for each phase.
 :::
 
 :::{dropdown} Step 4: Write Your Analysis (1,000-1,200 words)
-:open: true
 
 Your written analysis should include:
 
@@ -1109,7 +1105,6 @@ Your written analysis should include:
 :::
 
 :::{dropdown} Deliverable
-:open: true
 
 Submit a professional document (Word or PDF) including:
 1. Your written analysis (1,000-1,200 words)
@@ -1127,7 +1122,7 @@ Submit a professional document (Word or PDF) including:
 | Ethical considerations and faith integration | 15 |
 | **Total** | **100** |
 :::
-:::
+::::
 
 ---
 
@@ -1167,7 +1162,7 @@ Large language models are increasingly being used not just as tools but as *comp
 
 ## Module 4 Hands-On Activity 1: LLM Comparison Lab in Google AI Studio
 
-:::{exercise} Module 4 Hands-On Activity 1
+::::{exercise} Module 4 Hands-On Activity 1
 :label: ex-ch04-activity1
 
 **Activity: Head-to-Head LLM Comparison Lab**
@@ -1177,7 +1172,6 @@ Large language models are increasingly being used not just as tools but as *comp
 **Instructions:**
 
 :::{dropdown} Part A: Setup (10 minutes)
-:open: true
 
 Open the following LLM interfaces in separate browser tabs:
 1. **Google AI Studio:** [aistudio.google.com](https://aistudio.google.com) (Gemini models)
@@ -1189,7 +1183,6 @@ Use free tiers for all platforms. If you don't have accounts, create them (all o
 :::
 
 :::{dropdown} Part B: Standardized Testing (35 minutes)
-:open: true
 
 Submit the **exact same prompt** to all four LLMs for each test. Record results carefully.
 
@@ -1216,7 +1209,6 @@ For each test, rate each LLM on:
 :::
 
 :::{dropdown} Part C: Google AI Studio Deep Dive (15 minutes)
-:open: true
 
 In Google AI Studio specifically:
 1. Try different Gemini models (Flash vs. Pro) — how do results differ?
@@ -1231,7 +1223,6 @@ In Google AI Studio specifically:
 :::
 
 :::{dropdown} Part D: Deliverable
-:open: true
 
 Submit a report (600-800 words) including:
 
@@ -1269,13 +1260,13 @@ Submit a report (600-800 words) including:
 | Presentation and formatting | 15 |
 | **Total** | **100** |
 :::
-:::
+::::
 
 ---
 
 ## Module 4 Hands-On Activity 2: Creating a Business Research Agent with NotebookLM
 
-:::{exercise} Module 4 Hands-On Activity 2
+::::{exercise} Module 4 Hands-On Activity 2
 :label: ex-ch04-activity2
 
 **Activity: Building a Business Intelligence Research Agent with NotebookLM**
@@ -1285,7 +1276,6 @@ Submit a report (600-800 words) including:
 **Instructions:**
 
 :::{dropdown} Part A: Research Focus and Source Curation (20 minutes)
-:open: true
 
 1. Navigate to **NotebookLM** at [notebooklm.google.com](https://notebooklm.google.com)
 2. Create a new notebook called "Business Intelligence: [Your Industry/Company]"
@@ -1305,7 +1295,6 @@ Submit a report (600-800 words) including:
 :::
 
 :::{dropdown} Part B: AI-Powered Analysis (25 minutes)
-:open: true
 
 Use NotebookLM to generate business intelligence:
 
@@ -1325,7 +1314,6 @@ Document each query and response. Evaluate accuracy and usefulness.
 :::
 
 :::{dropdown} Part C: Audio Deep Dive (10 minutes)
-:open: true
 
 1. Generate an **Audio Overview** of your research notebook
 2. Listen to the AI-generated "podcast" discussion
@@ -1336,7 +1324,6 @@ Document each query and response. Evaluate accuracy and usefulness.
 :::
 
 :::{dropdown} Part D: Deliverable
-:open: true
 
 Submit a research report (600-800 words) including:
 
@@ -1372,7 +1359,7 @@ Submit a research report (600-800 words) including:
 | Presentation and formatting | 10 |
 | **Total** | **100** |
 :::
-:::
+::::
 
 ---
 

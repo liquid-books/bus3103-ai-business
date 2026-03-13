@@ -684,7 +684,6 @@ Google's Gemini (released December 2023, with Gemini 2.0 following in 2025) is o
 The ability to process multiple modalities simultaneously opens entirely new categories of business applications:
 
 :::{dropdown} Application 1: Intelligent Document Processing
-:open: true
 
 Traditional document processing required separate systems for text extraction (OCR), layout analysis, and content understanding. Multimodal AI handles all three simultaneously. A system like Gemini can look at a scanned invoice, read the text, understand the layout (recognizing which numbers are prices vs. dates), extract structured data, and flag anomalies — all in one pass.
 
@@ -692,7 +691,6 @@ Traditional document processing required separate systems for text extraction (O
 :::
 
 :::{dropdown} Application 2: Visual Quality Control
-:open: true
 
 Manufacturing companies are deploying multimodal AI for quality control. Rather than programming specific defect patterns, these systems can be shown examples of good and bad products and learn to identify anomalies. When a defect is detected, the system can generate a natural language report describing the issue, its probable cause, and recommended corrective action.
 
@@ -700,7 +698,6 @@ Manufacturing companies are deploying multimodal AI for quality control. Rather 
 :::
 
 :::{dropdown} Application 3: Multimodal Customer Support
-:open: true
 
 Customers can now send a photo of a broken product along with a text description of the problem. A multimodal AI assistant analyzes both the image and the text, identifies the product and the issue, and provides troubleshooting instructions or initiates a replacement — all without human intervention.
 
@@ -1020,7 +1017,7 @@ Natural Language Processing is increasingly mediating the relationship between b
 
 ## Module 3 Written Analysis: NLP Competitive Analysis
 
-:::{exercise} Module 3 Written Analysis
+::::{exercise} Module 3 Written Analysis
 :label: ex-ch03-written-analysis
 
 **Assignment: NLP Competitive Analysis — Comparing Two NLP-Powered Business Tools**
@@ -1030,7 +1027,6 @@ Natural Language Processing is increasingly mediating the relationship between b
 **Instructions:**
 
 :::{dropdown} Step 1: Select Two NLP Tools (10 minutes)
-:open: true
 
 Choose **two** NLP-powered business tools from the following categories (or propose your own with instructor approval):
 
@@ -1046,7 +1042,6 @@ You may select tools from different categories or compare two tools within the s
 :::
 
 :::{dropdown} Step 2: Hands-On Testing (30 minutes)
-:open: true
 
 Test both tools with the same set of inputs. Design at least **five test cases** relevant to a business scenario. For example:
 - Input a customer complaint and compare how each tool responds
@@ -1059,7 +1054,6 @@ Document the input, output, and your evaluation for each test case.
 :::
 
 :::{dropdown} Step 3: Write Your Analysis (800-1,000 words)
-:open: true
 
 Your written analysis should include:
 
@@ -1085,7 +1079,6 @@ Your written analysis should include:
 :::
 
 :::{dropdown} Deliverable
-:open: true
 
 Submit a well-formatted document (Word or PDF) including:
 1. Your written analysis (800-1,000 words)
@@ -1103,7 +1096,7 @@ Submit a well-formatted document (Word or PDF) including:
 | Writing quality and formatting | 10 |
 | **Total** | **100** |
 :::
-:::
+::::
 
 ---
 
@@ -1143,7 +1136,7 @@ As NLP technology becomes increasingly sophisticated — generating text, transl
 
 ## Module 3 Hands-On Activity 1: Voice-Powered AI Research with Gemini
 
-:::{exercise} Module 3 Hands-On Activity 1
+::::{exercise} Module 3 Hands-On Activity 1
 :label: ex-ch03-activity1
 
 **Activity: Exploring Multimodal AI Through Voice-Powered Research**
@@ -1153,7 +1146,6 @@ As NLP technology becomes increasingly sophisticated — generating text, transl
 **Instructions:**
 
 :::{dropdown} Part A: Setting Up (10 minutes)
-:open: true
 
 1. Open **Google Gemini** at [gemini.google.com](https://gemini.google.com) (sign in with your Google account)
 2. Familiarize yourself with the interface:
@@ -1166,7 +1158,6 @@ As NLP technology becomes increasingly sophisticated — generating text, transl
 :::
 
 :::{dropdown} Part B: Voice-Powered Business Research (30 minutes)
-:open: true
 
 Conduct a research session on **one** of the following business topics using **primarily voice input** (you may type for follow-ups, but at least 5 of your prompts should be spoken):
 
@@ -1189,7 +1180,6 @@ Conduct a research session on **one** of the following business topics using **p
 :::
 
 :::{dropdown} Part C: Multimodal Analysis (15 minutes)
-:open: true
 
 Test Gemini's multimodal capabilities:
 
@@ -1201,7 +1191,6 @@ Record your observations on each test.
 :::
 
 :::{dropdown} Part D: Deliverable
-:open: true
 
 Submit a report (500-700 words) including:
 
@@ -1232,13 +1221,13 @@ Submit a report (500-700 words) including:
 | Presentation and formatting | 10 |
 | **Total** | **100** |
 :::
-:::
+::::
 
 ---
 
 ## Module 3 Hands-On Activity 2: Building an Interview Prep Assistant with NotebookLM
 
-:::{exercise} Module 3 Hands-On Activity 2
+::::{exercise} Module 3 Hands-On Activity 2
 :label: ex-ch03-activity2
 
 **Activity: Building an AI-Powered Interview Preparation Assistant Using NotebookLM**
@@ -1248,7 +1237,6 @@ Submit a report (500-700 words) including:
 **Instructions:**
 
 :::{dropdown} Part A: Setting Up Your NotebookLM Workspace (15 minutes)
-:open: true
 
 1. Navigate to **NotebookLM** at [notebooklm.google.com](https://notebooklm.google.com)
 2. Create a new notebook called "Interview Prep Assistant"
@@ -1262,7 +1250,6 @@ Submit a report (500-700 words) including:
 :::
 
 :::{dropdown} Part B: Interview Question Generation (20 minutes)
-:open: true
 
 Use NotebookLM to generate and practice interview questions:
 
@@ -1282,7 +1269,6 @@ Use NotebookLM to generate and practice interview questions:
 :::
 
 :::{dropdown} Part C: Audio Study Guide (15 minutes)
-:open: true
 
 Explore NotebookLM's Audio Overview feature:
 
@@ -1296,7 +1282,6 @@ Explore NotebookLM's Audio Overview feature:
 :::
 
 :::{dropdown} Part D: Deliverable
-:open: true
 
 Submit a report (500-700 words) including:
 
@@ -1332,7 +1317,7 @@ Submit a report (500-700 words) including:
 | Reflection quality (insight + faith connection) | 20 |
 | **Total** | **100** |
 :::
-:::
+::::
 
 ---
 

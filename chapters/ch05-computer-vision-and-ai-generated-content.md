@@ -205,7 +205,7 @@ Amazon Lens, Google Lens, and Pinterest Lens allow consumers to search for produ
 Visual search in retail: a customer photographs a product in the real world, and AI matches it to similar items available for purchase online, transforming visual inspiration into commercial opportunity.
 :::
 
-::::{dropdown} Case Study: Wayfair's Visual Search Revolution
+:::{dropdown} Case Study: Wayfair's Visual Search Revolution
 Wayfair, the online furniture retailer, implemented visual search technology that allows customers to upload photos of furniture they like — from magazines, social media, or real life — and find similar items in Wayfair's catalog. The system uses deep learning to extract style attributes (modern vs. traditional, color palette, material, shape) and match them against millions of products.
 
 **Results:**
@@ -215,7 +215,7 @@ Wayfair, the online furniture retailer, implemented visual search technology tha
 - Customer satisfaction scores improved as shoppers found products that matched their aesthetic vision more precisely than text searches allowed
 
 The theological parallel is worth noting: God designed humans as visual creatures. Genesis 3:6 describes Eve seeing that the fruit was "pleasing to the eye" — visual attraction is deeply wired into human nature. Businesses that understand and serve this visual orientation through tools like visual search are aligning their strategies with fundamental human design.
-::::
+:::
 
 **Inventory Management and Loss Prevention**
 
@@ -270,7 +270,7 @@ Computer vision has transformed manufacturing quality control from a sampling-ba
 | Data generated | None | Full defect database |
 :::
 
-::::{dropdown} Case Study: BMW's AI Quality Vision
+:::{dropdown} Case Study: BMW's AI Quality Vision
 BMW has deployed over 100 AI-powered camera systems across its manufacturing plants. These systems inspect painted surfaces for microscopic defects, verify that components are correctly assembled, and ensure that interior trim pieces match color and texture specifications.
 
 One particularly impressive application: AI cameras at BMW's paint shops can detect paint defects as small as 0.1mm — literally invisible to the human eye — by analyzing how light reflects off the surface at different angles. Defective vehicles are automatically flagged and routed for correction before they leave the factory.
@@ -280,7 +280,7 @@ One particularly impressive application: AI cameras at BMW's paint shops can det
 - $12 million annual savings in warranty claims
 - Real-time quality data enables continuous process improvement
 - Human inspectors freed to focus on complex judgment calls
-::::
+:::
 
 ### Agriculture and Environmental Monitoring
 
@@ -532,7 +532,7 @@ The AI art copyright landscape: a complex web of competing interests between AI 
 
 The art community has responded to AI image generation with a mixture of outrage, fear, and reluctant adaptation. Understanding the artists' perspective is essential for ethical business leadership.
 
-::::{dropdown} Artists' Concerns: In Their Own Words
+:::{dropdown} Artists' Concerns: In Their Own Words
 **Economic displacement:** "I spent 15 years developing my illustration style. Now someone can type my name into Midjourney and generate images that look like my work in seconds. My commissions have dropped 40% since these tools launched." — Freelance illustrator (anonymous survey, 2024)
 
 **Consent and data rights:** "Nobody asked me if my artwork could be used to train an AI model. Billions of images were scraped from the internet without permission. That's not fair use — that's theft at scale." — Concept artist and plaintiff in class-action suit
@@ -540,7 +540,7 @@ The art community has responded to AI image generation with a mixture of outrage
 **Devaluation of craft:** "The message these tools send is clear: artistic skill doesn't matter anymore. Anyone with a text box can 'create' what used to require years of training and practice." — Art educator
 
 **Adaptation and opportunity:** "I've started using AI as a brainstorming tool — generating rough concepts that I then refine and develop with my skills. It hasn't replaced me; it's accelerated my process. But I understand why many artists are terrified." — Digital artist and early AI adopter
-::::
+:::
 
 :::{important}
 **The Christian Perspective on Creative Labor:** The Bible affirms the dignity of work and the value of skilled craftsmanship. In Exodus 31:1-5, God specifically chose Bezalel and filled him with the Spirit of God, giving him "wisdom, with understanding, with knowledge, and with all kinds of skills" for artistic work on the Tabernacle. God values human creativity and craftsmanship. Any technology that devalues or steals from human creative labor raises concerns that should matter deeply to Christians.

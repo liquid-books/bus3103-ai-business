@@ -1012,7 +1012,7 @@ Write a 1,000-1,200 word analysis examining how a specific deep learning technol
 
 ### Reflection: God, Creativity, and Machine Intelligence
 
-:::{exercise} Module 2 Reflection
+::::{exercise} Module 2 Reflection
 :label: ex-ch02-reflection
 
 **Faith-Integration Reflection**
@@ -1039,11 +1039,11 @@ In your reflection, consider:
 - 400-500 words, personal and reflective in tone
 
 **Grading:** Full credit for authentic engagement with the tension between technological ambition and Christian humility.
-:::
+::::
 
 ### Hands-On Activity 1: AI Timeline Research Project
 
-:::{exercise} Module 2 Hands-On Activity 1
+::::{exercise} Module 2 Hands-On Activity 1
 :label: ex-ch02-activity1
 
 **Activity: Creating an Interactive AI History Timeline**
@@ -1053,7 +1053,6 @@ In your reflection, consider:
 **Instructions:**
 
 :::{dropdown} Part A: Research (30 minutes)
-:open: true
 
 Select **five AI milestones** from the following list (or propose your own with instructor approval):
 
@@ -1081,7 +1080,6 @@ For each milestone, research:
 :::
 
 :::{dropdown} Part B: Create the Timeline (30 minutes)
-:open: true
 
 Create a **visual timeline** using one of these tools:
 - **Canva** (free, has timeline templates)
@@ -1097,7 +1095,6 @@ Your timeline must include:
 :::
 
 :::{dropdown} Part C: Written Analysis (20 minutes)
-:open: true
 
 Write a 300-word analysis addressing:
 1. What pattern do you notice in AI's development? (Hint: cycles)
@@ -1106,7 +1103,6 @@ Write a 300-word analysis addressing:
 :::
 
 :::{dropdown} Part D: Deliverable
-:open: true
 
 Submit:
 1. Your visual timeline (as PDF, image, or link)
@@ -1122,11 +1118,11 @@ Submit:
 | Presentation and sources | 15 |
 | **Total** | **100** |
 :::
-:::
+::::
 
 ### Hands-On Activity 2: Neural Network Simulation
 
-:::{exercise} Module 2 Hands-On Activity 2
+::::{exercise} Module 2 Hands-On Activity 2
 :label: ex-ch02-activity2
 
 **Activity: Understanding Neural Networks Through Hands-On Experimentation**
@@ -1136,7 +1132,6 @@ Submit:
 **Instructions:**
 
 :::{dropdown} Part A: Getting Started (10 minutes)
-:open: true
 
 1. Navigate to **TensorFlow Playground:** [playground.tensorflow.org](https://playground.tensorflow.org)
 2. Familiarize yourself with the interface:
@@ -1153,7 +1148,6 @@ Submit:
 :::
 
 :::{dropdown} Part B: Experiments (30 minutes)
-:open: true
 
 Complete the following experiments and record your observations:
 
@@ -1184,7 +1178,6 @@ Complete the following experiments and record your observations:
 :::
 
 :::{dropdown} Part C: Deliverable
-:open: true
 
 Submit a report (500-600 words) including:
 
@@ -1218,7 +1211,7 @@ Submit a report (500-600 words) including:
 | Business connection (practical insight) | 20 |
 | **Total** | **100** |
 :::
-:::
+::::
 
 ---
 

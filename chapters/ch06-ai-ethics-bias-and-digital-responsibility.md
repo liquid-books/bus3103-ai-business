@@ -202,7 +202,7 @@ The ability of LLMs to generate human-quality text at speed and scale has create
 A 2023 study by researchers at MIT found that people could only identify AI-generated news articles 50% of the time — essentially no better than random chance. When the AI-generated articles were refined with a single round of human editing, detection dropped to below 40%. We are entering an era where the authenticity of written content can no longer be assumed.
 :::
 
-::::{dropdown} Case Study: The Fake News Factory
+:::{dropdown} Case Study: The Fake News Factory
 In 2023, investigative journalists uncovered a network of over 600 websites publishing entirely AI-generated news content. These sites, operating across multiple countries and languages, generated thousands of articles daily on topics ranging from politics to health to finance. The articles were designed to attract search engine traffic and generate advertising revenue, but their content was fabricated — mixing real events with invented details, fake quotes, and AI-hallucinated statistics.
 
 The operation required fewer than 10 human operators, who used AI to generate content, create fake author profiles (complete with AI-generated headshot photos), and manage the website network. The total cost was estimated at under $10,000 per month, while generating millions of page views and significant advertising revenue.
@@ -212,7 +212,7 @@ The operation required fewer than 10 human operators, who used AI to generate co
 - Legitimate news organizations lost advertising revenue to fake competitors
 - Decision-makers who relied on these articles made choices based on false information
 - SEO and content marketing strategies were disrupted by AI-generated spam
-::::
+:::
 
 ### The Epistemological Crisis
 
@@ -343,7 +343,7 @@ graph LR
 
 ### Landmark Cases of AI Bias
 
-::::{dropdown} Case Study: Amazon's AI Recruiting Tool
+:::{dropdown} Case Study: Amazon's AI Recruiting Tool
 In 2018, Reuters revealed that Amazon had quietly scrapped an AI recruiting tool after discovering it was systematically biased against women. The tool was trained on 10 years of hiring data — which reflected the tech industry's male-dominated workforce. The model learned to penalize resumes containing the word "women's" (as in "women's chess club captain") and to downgrade graduates of all-women's colleges.
 
 **Key lessons:**
@@ -351,9 +351,9 @@ In 2018, Reuters revealed that Amazon had quietly scrapped an AI recruiting tool
 - Even after Amazon attempted to de-bias the model, it found other proxies for gender
 - The bias was not immediately obvious and was only discovered through internal audit
 - Amazon ultimately abandoned the tool entirely rather than risk discriminatory outcomes
-::::
+:::
 
-::::{dropdown} Case Study: COMPAS and Criminal Justice
+:::{dropdown} Case Study: COMPAS and Criminal Justice
 The Correctional Offender Management Profiling for Alternative Sanctions (COMPAS) tool scores defendants on their risk of reoffending. ProPublica's 2016 investigation found that Black defendants were almost twice as likely as white defendants to be falsely flagged as high-risk (false positive rate: 44.9% vs. 23.5%), while white defendants were more likely to be incorrectly rated as low-risk.
 
 **Key lessons:**
@@ -361,9 +361,9 @@ The Correctional Offender Management Profiling for Alternative Sanctions (COMPAS
 - Different definitions of "fairness" are mathematically incompatible — you cannot simultaneously equalize false positive rates across groups AND maintain equal predictive accuracy
 - Defendants often could not challenge their COMPAS scores because the algorithm was proprietary
 - This case sparked the entire field of algorithmic fairness research
-::::
+:::
 
-::::{dropdown} Case Study: Healthcare Algorithm Racial Bias
+:::{dropdown} Case Study: Healthcare Algorithm Racial Bias
 A 2019 study published in *Science* revealed that a widely used healthcare algorithm — deployed on over 200 million patients — systematically discriminated against Black patients. The algorithm used healthcare spending as a proxy for healthcare needs. But because Black patients historically had less access to healthcare (and therefore lower spending), the algorithm concluded they were healthier than equivalently sick white patients. As a result, Black patients had to be significantly sicker than white patients to be flagged for additional care.
 
 **Key lessons:**
@@ -371,7 +371,7 @@ A 2019 study published in *Science* revealed that a widely used healthcare algor
 - The bias affected over 200 million patients before it was discovered
 - Fixing the bias required rethinking the fundamental measurement approach
 - Even well-intentioned algorithm design can produce discriminatory outcomes
-::::
+:::
 
 ### The Christian Imperative for Algorithmic Justice
 
@@ -528,7 +528,7 @@ The data rights landscape: from the moment personal data is collected, it enters
 
 The business model underpinning many of today's largest tech companies — what scholar Shoshana Zuboff calls "surveillance capitalism" — involves the systematic extraction of behavioral data from individuals for the purpose of prediction and manipulation. AI is the engine that makes this business model possible.
 
-::::{dropdown} The Data Extraction Pipeline
+:::{dropdown} The Data Extraction Pipeline
 1. **Collection:** Every click, search, location, purchase, conversation, and biometric reading is captured
 2. **Aggregation:** Data from multiple sources is combined to build comprehensive individual profiles
 3. **Analysis:** AI models analyze these profiles to predict behavior, preferences, vulnerabilities, and susceptibilities
@@ -536,7 +536,7 @@ The business model underpinning many of today's largest tech companies — what 
 5. **Manipulation:** Predictive models are used to shape behavior — nudging purchases, influencing votes, or exploiting psychological vulnerabilities
 
 The individual whose data drives this pipeline receives "free" services but pays with their privacy, autonomy, and susceptibility to manipulation.
-::::
+:::
 
 ## AI Regulation: The Global Landscape
 

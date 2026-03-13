@@ -388,7 +388,6 @@ Why are businesses investing billions of dollars in AI? The answer lies in AI's 
 Starbucks provides an excellent example of how a large company integrates AI across its operations. Their AI platform, "Deep Brew," powers multiple aspects of the business:
 
 :::{dropdown} Deep Brew in Action
-:open: true
 
 **Personalized Recommendations.** The Starbucks mobile app uses machine learning to analyze each customer's purchase history, time of day, weather conditions, and local store inventory to make personalized drink recommendations. This personalization engine drives a significant portion of mobile orders.
 
@@ -1067,7 +1066,7 @@ Select a company or industry you are interested in and write a 1,000-1,200 word 
 
 ### Reflection: Faith and Technology
 
-:::{exercise} Module 1 Reflection
+::::{exercise} Module 1 Reflection
 :label: ex-ch01-reflection
 
 **Faith-Integration Reflection**
@@ -1095,11 +1094,11 @@ In your reflection, consider:
 - 400-500 words, submitted as a written document
 
 **Grading:** This reflection is graded on thoughtfulness and authentic engagement with the prompt (not on having "right answers"). Full credit requires genuine wrestling with the tension between technological power and Christian humility.
-:::
+::::
 
 ### Hands-On Activity 1: AI Tool Exploration
 
-:::{exercise} Module 1 Hands-On Activity 1
+::::{exercise} Module 1 Hands-On Activity 1
 :label: ex-ch01-activity1
 
 **Activity: Exploring AI Business Tools**
@@ -1109,7 +1108,6 @@ In your reflection, consider:
 **Instructions:**
 
 :::{dropdown} Part A: Tool Exploration (30 minutes)
-:open: true
 
 Choose **two** of the following AI tools to explore:
 
@@ -1135,7 +1133,6 @@ For each tool:
 :::
 
 :::{dropdown} Part B: Prompt Engineering Practice (20 minutes)
-:open: true
 
 Using one of the tools from Part A, complete this prompt engineering challenge:
 
@@ -1147,7 +1144,6 @@ Using one of the tools from Part A, complete this prompt engineering challenge:
 :::
 
 :::{dropdown} Part C: Deliverable
-:open: true
 
 Submit a 500-word report that includes:
 
@@ -1173,11 +1169,11 @@ Submit a 500-word report that includes:
 
 **Due:** End of Module 1 week
 :::
-:::
+::::
 
 ### Hands-On Activity 2: AI Ethics Case Analysis
 
-:::{exercise} Module 1 Hands-On Activity 2
+::::{exercise} Module 1 Hands-On Activity 2
 :label: ex-ch01-activity2
 
 **Activity: Building an AI Ethics Decision Framework**
@@ -1187,7 +1183,6 @@ Submit a 500-word report that includes:
 **Instructions:**
 
 :::{dropdown} Part A: Case Research (20 minutes)
-:open: true
 
 Research **one** of the following real-world AI ethics cases:
 
@@ -1200,7 +1195,6 @@ Use at least **two credible sources** for your research.
 :::
 
 :::{dropdown} Part B: Framework Development (30 minutes)
-:open: true
 
 Create a **one-page AI Ethics Decision Framework** that a business leader could use to evaluate any AI application. Your framework should include:
 
@@ -1212,7 +1206,6 @@ Present your framework as a visual document (table, flowchart, or infographic fo
 :::
 
 :::{dropdown} Part C: Case Application (20 minutes)
-:open: true
 
 Apply your ethics framework to the case you researched in Part A:
 
@@ -1222,7 +1215,6 @@ Apply your ethics framework to the case you researched in Part A:
 :::
 
 :::{dropdown} Part D: Deliverable
-:open: true
 
 Submit a document containing:
 1. Your AI Ethics Decision Framework (visual format)
@@ -1239,7 +1231,7 @@ Submit a document containing:
 | Writing quality and presentation | 15 |
 | **Total** | **100** |
 :::
-:::
+::::
 
 ---
 
