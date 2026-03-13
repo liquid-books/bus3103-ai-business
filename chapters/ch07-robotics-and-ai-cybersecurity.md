@@ -1,4 +1,6 @@
 ---
+exports:
+  - format: pdf
 title: "Chapter 7: Robotics & AI Cybersecurity"
 subtitle: "Industrial Automation, Intelligent Machines, and Defending the Digital Frontier"
 short_title: "Robotics & AI Cybersecurity"

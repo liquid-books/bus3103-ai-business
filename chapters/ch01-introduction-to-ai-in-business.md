@@ -1,4 +1,6 @@
 ---
+exports:
+  - format: pdf
 title: "Chapter 1: Introduction to AI in Business"
 subtitle: "Understanding the Foundations of Artificial Intelligence and Its Business Applications"
 short_title: "Introduction to AI"

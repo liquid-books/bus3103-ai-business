@@ -1,4 +1,6 @@
 ---
+exports:
+  - format: pdf
 title: "Chapter 6: AI Ethics, Bias & Digital Responsibility"
 subtitle: "Navigating Deepfakes, Algorithmic Bias, and the Quest for Trustworthy AI"
 short_title: "AI Ethics & Bias"

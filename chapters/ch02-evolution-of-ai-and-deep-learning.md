@@ -1,4 +1,6 @@
 ---
+exports:
+  - format: pdf
 title: "Chapter 2: Evolution of AI & Deep Learning"
 subtitle: "From the Turing Test to the Deep Learning Revolution"
 short_title: "Evolution of AI"
