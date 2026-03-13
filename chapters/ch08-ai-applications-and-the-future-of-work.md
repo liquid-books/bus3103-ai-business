@@ -1,6 +1,6 @@
 ---
 exports:
-  - format: pdf
+  - format: typst
 title: "Chapter 8: AI Applications & the Future of Work"
 subtitle: "Chatbots, Digital Twins, Supply Chain AI, Healthcare AI, and Preparing for an AI-Powered Career"
 short_title: "AI Applications & Future of Work"

@@ -1,6 +1,6 @@
 ---
 exports:
-  - format: pdf
+  - format: typst
 title: "Chapter 4: Machine Learning & Large Language Models"
 subtitle: "Big Data, Data Centers, and the LLMs Reshaping Business"
 short_title: "ML & Large Language Models"

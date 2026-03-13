@@ -1,6 +1,6 @@
 ---
 exports:
-  - format: pdf
+  - format: typst
 title: "Chapter 5: Computer Vision & AI-Generated Content"
 subtitle: "How Machines See the World and Create Visual Content"
 short_title: "Computer Vision & AI Art"

@@ -1,6 +1,6 @@
 ---
 exports:
-  - format: pdf
+  - format: typst
 title: "Chapter 3: Natural Language Processing"
 subtitle: "Teaching Machines to Understand, Interpret, and Generate Human Language"
 short_title: "Natural Language Processing"
