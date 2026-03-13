@@ -24,6 +24,9 @@ tags:
 
 # Chapter 7: Robotics & AI Cybersecurity
 
+[Download Chapter as PDF](./ch07-robotics-and-ai-cybersecurity.pdf)
+
+
 :::{figure} ../images/ch07-infographic-robotics-cybersecurity.png
 :label: fig-ch07-infographic
 :alt: A comprehensive infographic summarizing robotics and AI cybersecurity concepts including industrial robots, cobots, drones, humanoid robots, predictive AI security, generative AI threats, and adversarial AI

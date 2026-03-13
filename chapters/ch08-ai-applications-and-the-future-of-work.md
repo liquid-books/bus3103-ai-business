@@ -24,6 +24,9 @@ tags:
 
 # Chapter 8: AI Applications & the Future of Work
 
+[Download Chapter as PDF](./ch08-ai-applications-and-the-future-of-work.pdf)
+
+
 :::{figure} ../images/ch08-infographic-ai-applications-future.png
 :label: fig-ch08-infographic
 :alt: A comprehensive infographic summarizing AI applications and the future of work, including chatbots, digital twins, supply chain AI, healthcare AI, entrepreneurship, and career strategies

@@ -21,6 +21,9 @@ tags:
 
 # Chapter 1: Introduction to AI in Business
 
+[Download Chapter as PDF](./ch01-introduction-to-ai-in-business.pdf)
+
+
 :::{figure} ../images/ch01-infographic-ai-business.png
 :label: fig-ch01-infographic
 :alt: A comprehensive infographic summarizing key concepts in AI for business, including AI categories, machine learning, generative AI, prompt engineering, and ethical considerations

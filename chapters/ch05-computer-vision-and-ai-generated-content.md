@@ -22,6 +22,9 @@ tags:
 
 # Chapter 5: Computer Vision & AI-Generated Content
 
+[Download Chapter as PDF](./ch05-computer-vision-and-ai-generated-content.pdf)
+
+
 :::{figure} ../images/ch05-infographic-computer-vision.png
 :label: fig-ch05-infographic
 :alt: A comprehensive infographic summarizing computer vision concepts including image classification, object detection, AI image generation, text-to-image models, and ethical considerations in AI art

@@ -33,7 +33,6 @@ jobs:
       - name: Install MyST and Typst
         run: |
           npm install -g mystmd typst
-          # Try to get typst binary if npm package doesn't provide it
           if ! command -v typst &> /dev/null; then
             curl -Lo typst.tar.xz https://github.com/typst/typst/releases/download/v0.11.1/typst-x86_64-unknown-linux-musl.tar.xz
             tar -xJf typst.tar.xz
@@ -41,15 +40,12 @@ jobs:
           fi
       - name: Build HTML and PDF Assets
         run: |
-          myst build --html
-          # Try to build PDF with typst explicitly
-          myst build --pdf --typst --all
+          # Build everything at once so the site knows about the PDFs
+          myst build --all --typst
           mkdir -p _build/html/exports
-          # MyST exports often go to _build/exports/
           find _build/exports -name "*.pdf" -exec cp {} _build/html/exports/ \; || true
           find _build/exports -name "*.pdf" -exec cp {} _build/html/ \; || true
-          # Debug output
-          ls -R _build
+          ls -R _build/html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

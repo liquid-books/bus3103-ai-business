@@ -25,6 +25,9 @@ tags:
 
 # Chapter 4: Machine Learning & Large Language Models
 
+[Download Chapter as PDF](./ch04-machine-learning-and-llms.pdf)
+
+
 :::{figure} ../images/ch04-infographic-ml-llms.png
 :label: fig-ch04-infographic
 :alt: A comprehensive infographic summarizing the concepts of Machine Learning and Large Language Models, including big data, data center infrastructure, LLM comparison across ChatGPT, Claude, Gemini, Perplexity, and Jasper, and mobile AI applications. Clean modern flat design with blue and orange color scheme.

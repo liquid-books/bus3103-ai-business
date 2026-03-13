@@ -21,6 +21,9 @@ tags:
 
 # Chapter 2: Evolution of AI & Deep Learning
 
+[Download Chapter as PDF](./ch02-evolution-of-ai-and-deep-learning.pdf)
+
+
 :::{figure} ../images/ch02-infographic-ai-evolution.png
 :label: fig-ch02-infographic
 :alt: A comprehensive infographic showing the evolution of artificial intelligence from 1950 to present, including key milestones, AI winters and summers, and the deep learning revolution

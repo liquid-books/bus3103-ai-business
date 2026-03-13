@@ -24,6 +24,9 @@ tags:
 
 # Chapter 3: Natural Language Processing
 
+[Download Chapter as PDF](./ch03-natural-language-processing.pdf)
+
+
 :::{figure} ../images/ch03-infographic-nlp-overview.png
 :label: fig-ch03-infographic
 :alt: A comprehensive infographic summarizing the concepts of Natural Language Processing, including text preprocessing, tokenization, sentiment analysis, chatbots, multimodal AI, and business applications. Clean modern flat design with blue and orange color scheme.

@@ -24,6 +24,9 @@ tags:
 
 # Chapter 6: AI Ethics, Bias & Digital Responsibility
 
+[Download Chapter as PDF](./ch06-ai-ethics-bias-and-digital-responsibility.pdf)
+
+
 :::{figure} ../images/ch06-infographic-ai-ethics.png
 :label: fig-ch06-infographic
 :alt: A comprehensive infographic summarizing AI ethics concepts including deepfakes, algorithmic bias, the black box problem, fairness, transparency, accountability, data rights, and AI regulation frameworks

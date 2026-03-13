@@ -23,6 +23,8 @@ Welcome to **AI for Business Innovation: Navigating Artificial Intelligence with
 
 This book equips you to understand, evaluate, and responsibly deploy artificial intelligence in business settings — all while grounding your work in the values of Christian stewardship, human dignity, and ethical responsibility.
 
+[Download Full Book PDF](./ai-for-business-innovation.pdf)
+
 ## Part I: Foundations of AI
 
 ::::{grid} 1 1 2 2
