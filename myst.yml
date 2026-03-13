@@ -37,7 +37,7 @@ project:
   open_access: true
   github: https://github.com/liquid-books/bus3103-ai-business
   exports:
-    - format: pdf
+    - format: typst
       article: index.md
       output: ai-for-business-innovation.pdf
   # Numbering
