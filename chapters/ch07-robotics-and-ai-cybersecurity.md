@@ -971,29 +971,6 @@ c) Poisoning attack
 d) Prompt injection
 :::
 
-:::{solution} ex-ch07-quiz
-:label: sol-ch07-quiz
-
-1. **b)** Cobots are designed to work safely alongside humans without safety caging — this is their defining characteristic, incorporating force-limiting technology and advanced sensors.
-
-2. **c)** Autonomous Mobile Robots (AMRs) use SLAM (Simultaneous Localization and Mapping) and AI to navigate dynamically, unlike AGVs that follow fixed paths.
-
-3. **b)** Sensors (perception), actuators (action), and controllers (decision-making/AI) — the three essential systems of any modern robot.
-
-4. **c)** In RL, the policy (π) is the learned strategy that maps observed states to actions, optimized to maximize expected cumulative reward.
-
-5. **b)** User Behavior Analytics builds models of normal user behavior and flags statistical deviations that may indicate compromised accounts or insider threats.
-
-6. **b)** Generative AI enables attackers to create grammatically perfect, highly personalized phishing emails at scale — eliminating the telltale errors that once made phishing detectable.
-
-7. **b)** Adversarial attacks specifically target AI models by crafting inputs (e.g., perturbed images, injected prompts) designed to exploit mathematical vulnerabilities in the model.
-
-8. **b)** LiDAR provides precise 3D point clouds, and photogrammetry reconstructs 3D models from overlapping photographs — together they create detailed site models.
-
-9. **b)** The sim-to-real gap refers to differences between simulated and real-world conditions (physics, lighting, friction) that can cause simulation-trained policies to fail on real hardware.
-
-10. **c)** Data poisoning attacks inject manipulated samples into training data, causing the model to learn incorrect patterns or hidden backdoors.
-:::
 
 ### 💬 Discussion: Automation Anxiety — Robots in the Workplace
 

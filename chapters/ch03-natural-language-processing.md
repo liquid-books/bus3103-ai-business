@@ -955,71 +955,33 @@ Test your understanding of the key concepts covered in this chapter. Answer all 
 
 **1.** What is Natural Language Processing (NLP)?
 
-:::{dropdown} Answer
-NLP is a subfield of artificial intelligence that focuses on enabling computers to understand, interpret, generate, and respond to human language in ways that are both meaningful and useful. It combines techniques from computer science, linguistics, and machine learning.
-:::
 
 **2.** Name and explain the five main steps in a text preprocessing pipeline.
 
-:::{dropdown} Answer
-1. **Text Cleaning:** Removing noise such as URLs, special characters, emojis, and HTML tags
-2. **Tokenization:** Breaking text into individual units (words, subwords, or sentences)
-3. **Normalization:** Standardizing text through lowercasing, stemming, or lemmatization
-4. **Stop Word Removal:** Filtering out common words that carry little meaning (the, is, at)
-5. **Vectorization:** Converting text tokens into numerical representations (vectors) for machine processing
-:::
 
 **3.** What is tokenization, and why is subword tokenization used in modern LLMs?
 
-:::{dropdown} Answer
-Tokenization is the process of breaking text into individual units called tokens. Subword tokenization (like Byte Pair Encoding) breaks words into meaningful fragments rather than whole words. Modern LLMs use subword tokenization because it handles unknown words and technical terms gracefully, works efficiently across multiple languages, keeps vocabulary size manageable while covering rare words, and allows the model to understand the structure of new or compound words.
-:::
 
 **4.** Explain the difference between sentiment analysis at the document, sentence, and aspect levels.
 
-:::{dropdown} Answer
-- **Document level:** Classifies an entire document as positive, negative, or neutral overall
-- **Sentence level:** Analyzes individual sentences within a document, recognizing mixed sentiments
-- **Aspect-based:** Identifies sentiment toward specific features or aspects (e.g., a phone review might be positive about camera quality but negative about battery life)
-:::
 
 **5.** What is the difference between rule-based, AI-powered, and LLM-powered chatbots?
 
-:::{dropdown} Answer
-- **Rule-based:** Follow predefined decision trees and keyword matching; predictable but brittle, cannot handle unexpected inputs
-- **AI-powered:** Use ML and NLP to understand intent and entities; flexible with varied phrasing but need training data
-- **LLM-powered:** Built on large language models (GPT, Claude, Gemini); handle any topic with nuanced responses but may hallucinate and cost more to run
-:::
 
 **6.** What is multimodal AI, and how does Google Gemini exemplify this concept?
 
-:::{dropdown} Answer
-Multimodal AI refers to systems that can process, understand, and generate content across multiple data types (text, images, audio, video, code) within a single model. Google Gemini exemplifies this by being able to analyze an image and describe it in text, answer questions about video content, transcribe and translate audio, and reason across modalities simultaneously — for example, reading text in an image while also understanding the visual context.
-:::
 
 **7.** How is NLP used in recruitment, and what ethical concerns does this raise?
 
-:::{dropdown} Answer
-NLP is used in recruitment for job description optimization, resume screening and parsing, chatbot interviews, and sentiment/language analysis of candidate responses. Ethical concerns include algorithmic bias (Amazon's system penalizing women), proxy discrimination (using names or zip codes as demographic proxies), lack of transparency (candidates not knowing AI evaluates them), and accessibility issues (disadvantaging non-native speakers or neurodivergent individuals).
-:::
 
 **8.** What is the "sarcasm problem" in sentiment analysis, and why is it significant for businesses?
 
-:::{dropdown} Answer
-The sarcasm problem refers to the difficulty AI systems face in detecting sarcastic or ironic statements, where the literal words express the opposite of the intended meaning. For example, "Oh great, another update that breaks everything" reads as positive to basic sentiment analysis (due to "great") but is clearly negative. This is significant for businesses because misclassifying sarcastic negative feedback as positive can lead to missed customer complaints, inaccurate brand perception, and delayed crisis response.
-:::
 
 **9.** Explain the concept of word embeddings and why the "king - man + woman = queen" example is significant.
 
-:::{dropdown} Answer
-Word embeddings are dense vector representations of words in a high-dimensional space where semantic relationships are preserved. The "king - man + woman = queen" example is significant because it demonstrates that these vectors capture meaningful conceptual relationships — gender, royalty, analogy — not just word frequency. This means NLP systems can reason about word meaning mathematically, enabling tasks like analogy completion, semantic search, and transfer learning across languages.
-:::
 
 **10.** From a Christian perspective, what responsibilities do businesses have when deploying NLP technologies in customer-facing applications?
 
-:::{dropdown} Answer
-From a Christian perspective, businesses have responsibilities to uphold truth (not allowing AI to generate misleading information — Proverbs 12:22), preserve human dignity (not reducing people to data points, especially in hiring — Genesis 1:27), maintain transparency (being honest about when customers are interacting with AI — Matthew 5:37), exercise responsible stewardship of the power NLP provides (Luke 12:48), and ensure that technology serves genuine human connection rather than replacing it.
-:::
 :::
 
 ---

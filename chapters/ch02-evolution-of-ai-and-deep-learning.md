@@ -934,20 +934,6 @@ Reinforcement Learning
 10. **Short Answer:** Drawing on the cyclical history of AI, what advice would you give to a business executive considering a major AI investment today? Reference at least one historical lesson from this chapter.
 :::
 
-:::{dropdown} Quiz Answer Key
-:class: tip
-
-1. **(b)** The Dartmouth Conference, 1956.
-2. **False.** The first AI winter was caused by multiple factors: the combinatorial explosion problem, knowledge bottleneck, frame problem, AND computational limitations. The Lighthill Report (1973) accelerated funding cuts.
-3. **(b)** Reduced image classification errors by nearly 10 percentage points in one year using deep learning.
-4. Backpropagation is an algorithm that trains multi-layer neural networks by calculating the error at the output, then propagating that error backward through the network, adjusting connection weights at each layer to reduce the error. It was critical because it solved the problem of training networks with hidden layers, overcoming the limitations Minsky identified in single-layer perceptrons.
-5. **True.**
-6. **(b)** They were brittle, hard to maintain, and couldn't handle situations outside their narrow domain.
-7. The three factors: (1) massive data from the internet and digital devices, (2) powerful GPU hardware enabling parallel computation, and (3) algorithmic breakthroughs like the transformer architecture. (Accept reasoned arguments for any being most important.)
-8. **False.** Deep Blue used brute-force search and specialized hardware, not deep learning or neural networks.
-9. **(b)** Go's complexity made brute-force search impossible, requiring AlphaGo to develop learned "intuitions."
-10. Accept thoughtful responses referencing specific historical lessons (e.g., expert systems' brittleness warns against over-investing in single AI approaches; AI winters teach the importance of measuring real ROI rather than following hype; the importance of flexibility and avoiding vendor lock-in).
-:::
 
 ### Discussion: AI History and Business Strategy
 

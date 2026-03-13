@@ -936,29 +936,6 @@ c) Emotional intelligence, creativity, and ethical reasoning
 d) Memorization and recall
 :::
 
-:::{solution} ex-ch08-quiz
-:label: sol-ch08-quiz
-
-1. **b)** The knowledge base provides domain-specific, current, and authoritative information that grounds the chatbot's responses, preventing reliance on potentially outdated training data.
-
-2. **b)** RAG retrieves relevant documents from a knowledge base before the language model generates a response, ensuring outputs are grounded in factual, up-to-date information specific to the business.
-
-3. **b)** A digital twin is a virtual representation continuously updated with real-time data from IoT sensors, enabling analysis, prediction, and optimization of physical assets without disrupting real-world operations.
-
-4. **b)** AI forecasting models incorporate diverse external signals (weather, social media, economic indicators, events) alongside historical data, capturing complex patterns that traditional statistical methods miss.
-
-5. **b)** Blockchain creates transparent, tamper-resistant records of every transaction in the supply chain, enabling product tracing, anti-counterfeiting, compliance verification, and dispute resolution.
-
-6. **b)** Personalized medicine uses AI to analyze individual genetics, medical history, lifestyle, and wearable data to tailor treatments, dosages, and monitoring plans to each patient's unique biology.
-
-7. **c)** AI has democratized enterprise-grade capabilities (content creation, coding, customer service, marketing) making them accessible to solo entrepreneurs and small teams, fundamentally lowering barriers to entry.
-
-8. **b)** Research consistently shows that AI automates specific tasks within jobs rather than entire jobs. Most jobs are bundles of tasks — some automatable, some requiring uniquely human capabilities.
-
-9. **b)** A T-shaped professional has broad cross-functional knowledge (the horizontal bar) combined with deep expertise in one area (the vertical bar), making them particularly valuable in the AI era.
-
-10. **c)** As AI automates routine cognitive tasks, uniquely human capabilities — emotional intelligence, creativity, complex communication, and ethical reasoning — become more valuable, not less.
-:::
 
 ### 💬 Discussion: My Career in an AI World
 

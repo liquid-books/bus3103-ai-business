@@ -968,74 +968,33 @@ Test your understanding of the key concepts covered in this chapter. Answer all 
 
 **1.** Define big data and explain the Five V's.
 
-:::{dropdown} Answer
-Big data refers to datasets so large, complex, and rapidly generated that traditional processing methods cannot handle them. The Five V's are:
-1. **Volume:** Massive scale of data (petabytes and beyond)
-2. **Velocity:** Speed of data generation and the need for real-time processing
-3. **Variety:** Diverse data types — structured, semi-structured, and unstructured
-4. **Veracity:** Data quality, trustworthiness, and reliability
-5. **Value:** The actionable business insights that can be extracted from the data
-:::
 
 **2.** What is a data center, and why are they critical for AI?
 
-:::{dropdown} Answer
-A data center is a physical facility housing computing infrastructure — servers, storage, networking, and cooling systems. They are critical for AI because training large language models requires enormous computational resources: thousands of GPUs running simultaneously for weeks or months, consuming megawatts of power. Modern AI simply could not exist without the concentrated computing power that data centers provide. Every query to ChatGPT, Gemini, or Claude is processed in a data center.
-:::
 
 **3.** Explain the difference between supervised, unsupervised, and reinforcement learning with one business example for each.
 
-:::{dropdown} Answer
-- **Supervised Learning:** Learns from labeled data (input-output pairs). Example: A spam filter trained on emails labeled as "spam" or "not spam" learns to classify new emails.
-- **Unsupervised Learning:** Discovers patterns in unlabeled data. Example: Customer segmentation — grouping customers by purchasing behavior without predefined categories.
-- **Reinforcement Learning:** Learns through trial and error, maximizing rewards. Example: Dynamic pricing systems that adjust prices based on demand and customer response.
-:::
 
 **4.** What is a Large Language Model (LLM), and how does it generate text?
 
-:::{dropdown} Answer
-An LLM is an AI model trained on vast text data to understand and generate human language. It is built on the transformer architecture with billions of parameters. LLMs generate text by predicting the most probable next token in a sequence, based on statistical patterns learned during training. The model processes input tokens, applies attention mechanisms to understand context and relationships, and outputs a probability distribution over possible next tokens — selecting one and repeating the process to generate coherent text.
-:::
 
 **5.** What are hallucinations in LLMs, and why are they a business risk?
 
-:::{dropdown} Answer
-Hallucinations occur when LLMs generate plausible-sounding but factually incorrect, fabricated, or nonsensical information with apparent confidence. They are a business risk because: (1) users may trust incorrect information for decision-making, (2) legal liability if hallucinated content causes harm (e.g., fabricated legal citations), (3) reputational damage if customers receive false information, and (4) they cannot be completely eliminated because they are inherent to how LLMs work — predicting statistically likely text rather than retrieving verified facts.
-:::
 
 **6.** Compare ChatGPT and Claude: What are each model's primary strengths and ideal business use cases?
 
-:::{dropdown} Answer
-**ChatGPT** excels in versatility, ecosystem (custom GPTs, plugins, DALL-E), multimodal capabilities, and coding. Best for general business use, content creation, code development, and data analysis.
-
-**Claude** excels in long context (200K tokens), writing quality, safety/honesty, and deep analysis. Best for legal/compliance (contract analysis), professional writing, research involving long documents, and sensitive communications where careful language matters.
-:::
 
 **7.** What makes Perplexity AI different from other LLMs, and when should a business choose it?
 
-:::{dropdown} Answer
-Perplexity AI is unique because it combines LLM capabilities with real-time web search, providing responses with inline citations to original sources. Unlike ChatGPT or Claude, which generate from training data, Perplexity actively searches the internet for current information. A business should choose it when factual accuracy and source verification are critical — market research, competitive intelligence, due diligence, fact-checking, and academic/professional research.
-:::
 
 **8.** What is the difference between cloud-based and on-device mobile AI? Give an advantage of each.
 
-:::{dropdown} Answer
-Cloud-based mobile AI sends requests to remote data centers for processing (e.g., ChatGPT mobile app). Advantage: access to the most powerful models without hardware limitations.
-
-On-device mobile AI runs models directly on the phone's processor (e.g., Apple Intelligence, Gemini Nano). Advantage: complete privacy since data never leaves the device, plus instant responses with no internet required.
-:::
 
 **9.** Explain how bias can enter a machine learning pipeline and give one real-world example.
 
-:::{dropdown} Answer
-Bias can enter at every stage: data collection (historical bias, unrepresentative samples), data labeling (annotator assumptions), feature selection (proxy variables for protected characteristics), model training (amplifying existing patterns), evaluation (benchmarks that don't measure fairness), and deployment (feedback loops reinforcing bias). Real-world example: Amazon's AI recruiting tool was trained on 10 years of predominantly male hiring data and learned to penalize resumes from women, downgrading resumes that contained words like "women's."
-:::
 
 **10.** From a Christian stewardship perspective, what environmental concerns should businesses consider when adopting LLM technologies?
 
-:::{dropdown} Answer
-Training large models consumes enormous energy (equivalent to multiple households' lifetime consumption) and water (millions of gallons for cooling). Data centers contribute to carbon emissions, consume 1-2% of global electricity, and generate e-waste. From Genesis 2:15 — our mandate to "work and take care of" creation — Christians should: choose energy-efficient models and providers committed to sustainability, weigh genuine business value against environmental cost, prefer smaller/efficient models when full capability isn't needed, and advocate for responsible AI development that respects creation.
-:::
 :::
 
 ---

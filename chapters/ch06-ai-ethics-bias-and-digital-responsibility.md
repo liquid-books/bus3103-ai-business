@@ -727,20 +727,6 @@ The FATE framework for ethical AI: four interconnected pillars that together for
 10. **Short Answer:** Using the FATE framework, identify and explain the four pillars of ethical AI. For one of the pillars, provide a biblical principle that supports it.
 :::
 
-:::{dropdown} Quiz Answer Key
-:class: tip
-
-1. **(b)** Synthetic media created by AI to convincingly depict events that never occurred.
-2. **True.** The liar's dividend allows people to dismiss genuine evidence by claiming "it could be a deepfake."
-3. **(b)** The inability to understand how complex AI models arrive at their decisions.
-4. Historical data reflects historical inequities. If an AI model is trained on data from a period when certain groups were disadvantaged (e.g., denied loans, hired less frequently, arrested disproportionately), it learns these patterns and reproduces them. Even without explicit protected characteristics, the model may use proxy variables — zip codes that correlate with race, names that correlate with gender — to achieve the same discriminatory effect. (Accept any answer capturing the concept of proxy variables and historical inequity.)
-5. **(b)** It classifies AI systems into risk tiers with requirements increasing at each level.
-6. **False.** The Chouldechova impossibility theorem proves that when base rates differ between groups, it is generally impossible to simultaneously satisfy all fairness criteria.
-7. **(b)** The training data reflected 10 years of male-dominated hiring patterns in the tech industry.
-8. Explainable AI (XAI) refers to methods that make AI decision processes understandable to humans. It is important for business because: (1) regulatory compliance increasingly requires explainability; (2) customers and affected individuals deserve to understand decisions that impact them; (3) organizations need to audit AI systems for bias and errors; (4) trust in AI requires transparency about how decisions are made. (Accept any definition + business justification.)
-9. **False.** The U.S. does not have a comprehensive federal AI law. It uses a sectoral, voluntary approach with regulations in specific areas (FDA for medical AI, FTC for consumer protection) and state-level patchwork.
-10. The four pillars are: **Fairness** (ensuring equitable outcomes across groups), **Accountability** (clear responsibility for AI decisions), **Transparency** (openness about AI use and decision processes), and **Ethics** (alignment with values and consideration of impacts). Biblical support examples: Fairness — Micah 6:8 ("act justly"); Accountability — Luke 12:48 ("much will be demanded"); Transparency — John 3:20-21 (deeds exposed to light); Ethics — Proverbs 31:8-9 (defend the oppressed). (Accept any valid pillar-scripture pairing.)
-:::
 
 ### Discussion: Who Is Responsible When AI Goes Wrong?
 

@@ -987,20 +987,6 @@ Artificial General Intelligence (AGI)
 10. **Short Answer:** From a Christian perspective, explain why AI bias is not merely a technical problem but a moral one. Reference at least one Biblical principle in your answer.
 :::
 
-:::{dropdown} Quiz Answer Key
-:class: tip
-
-1. **(b)** All commercial AI systems are narrow AI, designed for specific tasks.
-2. **False.** LLMs operate through pattern matching and statistical prediction, not genuine understanding.
-3. **(b)** Unsupervised learning — it discovers natural groupings without predefined labels.
-4. Prompt engineering is the practice of designing and refining inputs to AI systems to produce high-quality outputs. It is critical because the quality of AI output depends directly on the quality of instructions provided. (Accept any response that captures both the definition and the business relevance.)
-5. **True.**
-6. **(b)** The training data reflected a decade of male-dominated hiring patterns.
-7. Task displacement means AI automates specific tasks within a job (e.g., AI handles document review while lawyers focus on strategy). Job displacement means AI eliminates an entire role. Most current AI impact is task displacement. (Accept relevant examples.)
-8. **True.**
-9. **(b)** Role.
-10. AI bias violates the principle of *Imago Dei* — that every person is made in God's image and possesses inherent dignity (Genesis 1:27). When AI systems systematically disadvantage certain groups, they fail to treat all people as equally valuable. (Accept answers referencing relevant Biblical principles such as justice, stewardship, or truth.)
-:::
 
 ### Discussion: The Role of AI in Modern Business
 

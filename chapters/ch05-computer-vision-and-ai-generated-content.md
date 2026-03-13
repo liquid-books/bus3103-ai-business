@@ -696,20 +696,6 @@ For more on the ethical dimensions of visual AI, including deepfakes and manipul
 10. **Short Answer:** From a Christian perspective, explain the ethical concern with AI systems that can generate images "in the style of" specific living artists. Reference a biblical principle in your answer.
 :::
 
-:::{dropdown} Quiz Answer Key
-:class: tip
-
-1. **(b)** Convolutional Neural Network (CNN) — specifically designed for processing visual data through hierarchical feature extraction.
-2. **False.** Scene understanding includes comprehending relationships between objects, activities taking place, environmental context, and spatial relationships — not just identifying individual objects.
-3. **(c)** Adobe Firefly — trained exclusively on Adobe Stock, licensed content, and public domain images.
-4. Diffusion models work in two phases: (1) **Forward diffusion** during training, where noise is gradually added to real images until they become pure static; (2) **Reverse diffusion** during generation, where the model starts with random noise and progressively removes it, guided by the text prompt, until a coherent image emerges. (Accept any answer capturing the noise-adding and denoising concept.)
-5. **(c)** Visual search — these tools allow users to search for products and information using images as queries.
-6. **False.** The U.S. Copyright Office has ruled that images generated entirely by AI *cannot* be copyrighted because copyright requires human authorship.
-7. **(c)** Semantic segmentation — it classifies every pixel in an image into a predefined category.
-8. Applications include radiology (detecting fractures, tumors, pneumonia in medical images) and pathology (analyzing tissue samples for cancer). AI assists rather than replaces physicians because: (1) medical decisions require holistic patient context that AI cannot access; (2) legal and ethical responsibility must rest with licensed professionals; (3) AI systems can make errors that require expert judgment to catch; (4) patient trust and the physician-patient relationship remain essential. (Accept any two valid applications with reasonable explanation.)
-9. **True.** Reverse image search helps verify authenticity by finding the original source of images and can identify manipulated or AI-generated content through comparison.
-10. The concern relates to the dignity of human labor and creative craftsmanship. Scripture affirms skilled work as God-given — Exodus 31:1-5 describes God filling Bezalel with His Spirit for artistic work. AI style replication devalues years of human creative development and effectively appropriates an artist's creative identity without consent or compensation. This violates the biblical principles of fair wages (Deuteronomy 24:15), respect for others' labor (Exodus 20:15 — "You shall not steal"), and love for neighbor (Mark 12:31). (Accept answers referencing relevant biblical principles about work, justice, or stewardship.)
-:::
 
 ### Discussion: The Future of Visual Content Creation
 
