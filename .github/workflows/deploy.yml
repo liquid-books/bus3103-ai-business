@@ -40,8 +40,8 @@ jobs:
           fi
       - name: Build HTML and PDF Assets
         run: |
-          # Build everything at once so the site knows about the PDFs
-          myst build --all --typst
+          # Build site + all exports together so the site knows about the PDFs
+          myst build --html --all --typst
           mkdir -p _build/html/exports
           find _build/exports -name "*.pdf" -exec cp {} _build/html/exports/ \; || true
           find _build/exports -name "*.pdf" -exec cp {} _build/html/ \; || true
