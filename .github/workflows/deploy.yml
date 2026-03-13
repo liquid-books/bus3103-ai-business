@@ -42,10 +42,10 @@ jobs:
       - name: Copy PDFs to predictable download paths
         run: |
           mkdir -p _build/html/downloads
-          echo "=== All PDFs found ==="
-          find _build -name "*.pdf" -type f
-          echo "=== Copying ==="
-          find _build -name "*.pdf" -type f -exec sh -c 'cp "$1" "_build/html/downloads/$(basename "$1")" && echo "OK: $(basename "$1")"' _ {} \;
+          echo "=== All PDFs in entire workspace ==="
+          find . -name "*.pdf" -type f -not -path "./.git/*"
+          echo "=== Copying all found PDFs ==="
+          find . -name "*.pdf" -type f -not -path "./.git/*" -not -path "./_build/html/*" -exec sh -c 'cp "$1" "_build/html/downloads/$(basename "$1")" && echo "OK: $(basename "$1")"' _ {} \;
           echo "=== Downloads dir ==="
           ls -la _build/html/downloads/
       - name: Upload artifact
