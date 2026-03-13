@@ -29,7 +29,6 @@ tags:
 
 # Chapter 7: Robotics & AI Cybersecurity
 
-> 📥 [Download this chapter as PDF](/bus3103-ai-business/downloads/ch07-robotics-and-ai-cybersecurity.pdf)
 
 :::{figure} ../images/ch07-infographic-robotics-cybersecurity.png
 :label: fig-ch07-infographic

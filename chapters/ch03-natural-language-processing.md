@@ -29,7 +29,6 @@ tags:
 
 # Chapter 3: Natural Language Processing
 
-> 📥 [Download this chapter as PDF](/bus3103-ai-business/downloads/ch03-natural-language-processing.pdf)
 
 :::{figure} ../images/ch03-infographic-nlp-overview.png
 :label: fig-ch03-infographic
