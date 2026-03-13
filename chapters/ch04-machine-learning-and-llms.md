@@ -32,8 +32,6 @@ tags:
 
 > 📥 [Download this chapter as PDF](./downloads/ch04-machine-learning-and-llms.pdf)
 
-
-
 :::{figure} ../images/ch04-infographic-ml-llms.png
 :label: fig-ch04-infographic
 :alt: A comprehensive infographic summarizing the concepts of Machine Learning and Large Language Models, including big data, data center infrastructure, LLM comparison across ChatGPT, Claude, Gemini, Perplexity, and Jasper, and mobile AI applications. Clean modern flat design with blue and orange color scheme.
@@ -958,44 +956,6 @@ This case illustrates how bias can be invisible in the data: the algorithm never
 :::
 
 ---
-
-## Module 4 Quiz: Machine Learning & Large Language Models
-
-:::{exercise} Module 4 Knowledge Check
-:label: ex-ch04-quiz
-
-Test your understanding of the key concepts covered in this chapter. Answer all 10 questions.
-
-**1.** Define big data and explain the Five V's.
-
-
-**2.** What is a data center, and why are they critical for AI?
-
-
-**3.** Explain the difference between supervised, unsupervised, and reinforcement learning with one business example for each.
-
-
-**4.** What is a Large Language Model (LLM), and how does it generate text?
-
-
-**5.** What are hallucinations in LLMs, and why are they a business risk?
-
-
-**6.** Compare ChatGPT and Claude: What are each model's primary strengths and ideal business use cases?
-
-
-**7.** What makes Perplexity AI different from other LLMs, and when should a business choose it?
-
-
-**8.** What is the difference between cloud-based and on-device mobile AI? Give an advantage of each.
-
-
-**9.** Explain how bias can enter a machine learning pipeline and give one real-world example.
-
-
-**10.** From a Christian stewardship perspective, what environmental concerns should businesses consider when adopting LLM technologies?
-
-:::
 
 ---
 

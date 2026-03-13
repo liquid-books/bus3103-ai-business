@@ -31,8 +31,6 @@ tags:
 
 > 📥 [Download this chapter as PDF](./downloads/ch03-natural-language-processing.pdf)
 
-
-
 :::{figure} ../images/ch03-infographic-nlp-overview.png
 :label: fig-ch03-infographic
 :alt: A comprehensive infographic summarizing the concepts of Natural Language Processing, including text preprocessing, tokenization, sentiment analysis, chatbots, multimodal AI, and business applications. Clean modern flat design with blue and orange color scheme.
@@ -942,44 +940,6 @@ The rapid advancement of NLP raises profound questions: If AI can write emails, 
 These questions do not have simple answers, but as students at a Christian university, you are uniquely positioned to engage with them thoughtfully. The world needs business leaders who can harness NLP's power while preserving the irreplaceable value of genuine human communication — leaders who understand that technology should serve relationship, not replace it.
 
 ---
-
-## Module 3 Quiz: Natural Language Processing
-
-:::{exercise} Module 3 Knowledge Check
-:label: ex-ch03-quiz
-
-Test your understanding of the key concepts covered in this chapter. Answer all 10 questions.
-
-**1.** What is Natural Language Processing (NLP)?
-
-
-**2.** Name and explain the five main steps in a text preprocessing pipeline.
-
-
-**3.** What is tokenization, and why is subword tokenization used in modern LLMs?
-
-
-**4.** Explain the difference between sentiment analysis at the document, sentence, and aspect levels.
-
-
-**5.** What is the difference between rule-based, AI-powered, and LLM-powered chatbots?
-
-
-**6.** What is multimodal AI, and how does Google Gemini exemplify this concept?
-
-
-**7.** How is NLP used in recruitment, and what ethical concerns does this raise?
-
-
-**8.** What is the "sarcasm problem" in sentiment analysis, and why is it significant for businesses?
-
-
-**9.** Explain the concept of word embeddings and why the "king - man + woman = queen" example is significant.
-
-
-**10.** From a Christian perspective, what responsibilities do businesses have when deploying NLP technologies in customer-facing applications?
-
-:::
 
 ---
 

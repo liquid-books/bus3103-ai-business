@@ -31,8 +31,6 @@ tags:
 
 > 📥 [Download this chapter as PDF](./downloads/ch07-robotics-and-ai-cybersecurity.pdf)
 
-
-
 :::{figure} ../images/ch07-infographic-robotics-cybersecurity.png
 :label: fig-ch07-infographic
 :alt: A comprehensive infographic summarizing robotics and AI cybersecurity concepts including industrial robots, cobots, drones, humanoid robots, predictive AI security, generative AI threats, and adversarial AI
@@ -902,75 +900,6 @@ From a Christian perspective, several principles apply:
 Many Christian ethicists and organizations, including the World Council of Churches, have called for an international ban on fully autonomous weapons — a position grounded in the conviction that the decision to take a human life should never be delegated to a machine.
 
 ## Module Activities
-
-### 📝 Quiz: Robotics & AI Cybersecurity
-
-:::{exercise} Module 7 Quiz
-:label: ex-ch07-quiz
-
-Test your understanding of robotics and AI cybersecurity concepts. Select the best answer for each question.
-
-**1. What is the primary difference between an industrial robot and a collaborative robot (cobot)?**
-a) Industrial robots are more expensive
-b) Cobots are designed to work safely alongside humans without safety caging
-c) Industrial robots use AI while cobots do not
-d) Cobots can only perform simple tasks
-
-**2. Which type of robot uses AI-powered navigation to dynamically plan routes through environments?**
-a) Automated Guided Vehicle (AGV)
-b) Industrial robot arm
-c) Autonomous Mobile Robot (AMR)
-d) Teleoperated drone
-
-**3. What are the three core components of a modern robot?**
-a) Hardware, software, internet
-b) Sensors, actuators, controllers
-c) Motors, batteries, cameras
-d) CPU, GPU, RAM
-
-**4. In reinforcement learning, what is the "policy"?**
-a) The safety rules for robot operation
-b) The company's AI governance framework
-c) A mapping from states to actions that maximizes cumulative reward
-d) The training dataset used to teach the robot
-
-**5. Which AI technique in cybersecurity builds behavioral baselines for users and flags deviations?**
-a) Signature-based detection
-b) User Behavior Analytics (UBA)
-c) Firewall rules
-d) Password hashing
-
-**6. How has generative AI changed the nature of phishing attacks?**
-a) It has made phishing less effective
-b) It enables perfectly written, personalized phishing at scale
-c) It only affects email-based attacks
-d) It requires advanced programming skills to use
-
-**7. What is an adversarial attack in the context of AI security?**
-a) A traditional denial-of-service attack
-b) Crafting inputs specifically designed to cause AI systems to make errors
-c) Hacking into the AI company's servers
-d) Using AI to attack non-AI systems
-
-**8. What technology enables drones to create 3D models of construction sites?**
-a) Bluetooth
-b) LiDAR and photogrammetry
-c) Standard GPS only
-d) Infrared sensors only
-
-**9. What is the "sim-to-real gap" in reinforcement learning?**
-a) The time difference between simulation and real-world operation
-b) The discrepancy between simulated training environments and real-world conditions
-c) The cost difference between simulation software and real robots
-d) The gap between academic research and commercial products
-
-**10. Which adversarial attack type involves corrupting training data to compromise an AI model?**
-a) Evasion attack
-b) Model extraction
-c) Poisoning attack
-d) Prompt injection
-:::
-
 
 ### 💬 Discussion: Automation Anxiety — Robots in the Workplace
 

@@ -31,8 +31,6 @@ tags:
 
 > 📥 [Download this chapter as PDF](./downloads/ch06-ai-ethics-bias-and-digital-responsibility.pdf)
 
-
-
 :::{figure} ../images/ch06-infographic-ai-ethics.png
 :label: fig-ch06-infographic
 :alt: A comprehensive infographic summarizing AI ethics concepts including deepfakes, algorithmic bias, the black box problem, fairness, transparency, accountability, data rights, and AI regulation frameworks
@@ -682,51 +680,6 @@ The FATE framework for ethical AI: four interconnected pillars that together for
 ---
 
 ## Module 6 Activities
-
-### Quiz: AI Ethics, Bias & Digital Responsibility
-
-:::{exercise} Module 6 Quiz
-:label: ex-ch06-quiz
-
-**Answer the following 10 questions based on Chapter 6 content.**
-
-1. **Multiple Choice:** What is a deepfake?
-   - (a) A type of computer virus that corrupts image files
-   - (b) Synthetic media created by AI to convincingly depict events that never occurred
-   - (c) A social media filter that enhances photographs
-   - (d) An AI-generated text document that mimics a specific author
-
-2. **True or False:** The "liar's dividend" refers to the phenomenon where the existence of deepfake technology allows people to dismiss real evidence as "probably fake."
-
-3. **Multiple Choice:** The "black box problem" in AI refers to:
-   - (a) The physical hardware that houses AI computing systems
-   - (b) The inability to understand how complex AI models arrive at their decisions
-   - (c) The packaging of AI products for commercial sale
-   - (d) The encryption of AI training data for security purposes
-
-4. **Short Answer:** Explain why using historical data to train AI models can perpetuate discrimination, even when the algorithm does not explicitly use protected characteristics like race or gender as inputs.
-
-5. **Multiple Choice:** Which of the following is TRUE about the EU AI Act?
-   - (a) It only applies to AI systems developed within the EU
-   - (b) It classifies AI systems into risk tiers with requirements increasing at each level
-   - (c) It prohibits all uses of artificial intelligence in law enforcement
-   - (d) It does not impose financial penalties for violations
-
-6. **True or False:** It is mathematically possible to satisfy all fairness criteria simultaneously when base rates differ between demographic groups.
-
-7. **Multiple Choice:** Amazon's AI recruiting tool was found to be biased against women primarily because:
-   - (a) The programmers intentionally coded gender discrimination
-   - (b) The training data reflected 10 years of male-dominated hiring patterns
-   - (c) Women were excluded from the testing group
-   - (d) The algorithm weighted physical strength requirements
-
-8. **Short Answer:** Define "Explainable AI (XAI)" and explain why it is important for business applications of artificial intelligence.
-
-9. **True or False:** The U.S. has a single comprehensive federal law governing all uses of artificial intelligence, similar to the EU AI Act.
-
-10. **Short Answer:** Using the FATE framework, identify and explain the four pillars of ethical AI. For one of the pillars, provide a biblical principle that supports it.
-:::
-
 
 ### Discussion: Who Is Responsible When AI Goes Wrong?
 

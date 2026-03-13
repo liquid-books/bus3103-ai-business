@@ -28,8 +28,6 @@ tags:
 
 > 📥 [Download this chapter as PDF](./downloads/ch02-evolution-of-ai-and-deep-learning.pdf)
 
-
-
 :::{figure} ../images/ch02-infographic-ai-evolution.png
 :label: fig-ch02-infographic
 :alt: A comprehensive infographic showing the evolution of artificial intelligence from 1950 to present, including key milestones, AI winters and summers, and the deep learning revolution
@@ -889,51 +887,6 @@ Reinforcement Learning
 ---
 
 ## Module 2 Activities
-
-### Quiz: Evolution of AI & Deep Learning
-
-:::{exercise} Module 2 Quiz
-:label: ex-ch02-quiz
-
-**Answer the following 10 questions based on Chapter 2 content.**
-
-1. **Multiple Choice:** The term "artificial intelligence" was formally coined at which event?
-   - (a) The Turing Award Ceremony, 1950
-   - (b) The Dartmouth Conference, 1956
-   - (c) The ImageNet Challenge, 2012
-   - (d) The release of ChatGPT, 2022
-
-2. **True or False:** The first AI winter was primarily caused by insufficient computing power alone.
-
-3. **Multiple Choice:** AlexNet's victory in the 2012 ImageNet Challenge was significant because:
-   - (a) It was the first time a computer beat a human at chess
-   - (b) It reduced image classification errors by nearly 10 percentage points in one year using deep learning
-   - (c) It introduced the transformer architecture
-   - (d) It was the first expert system
-
-4. **Short Answer:** Explain the concept of "backpropagation" in your own words. Why was it a critical breakthrough for neural networks?
-
-5. **True or False:** The transformer architecture, which powers modern LLMs like ChatGPT, was introduced in 2017.
-
-6. **Multiple Choice:** Expert systems failed in the late 1980s primarily because:
-   - (a) They were too expensive to build
-   - (b) They were brittle, hard to maintain, and couldn't handle situations outside their narrow domain
-   - (c) The internet made them obsolete
-   - (d) Deep learning was already available as a superior alternative
-
-7. **Short Answer:** Describe the three factors that converged to enable the deep learning revolution. Which do you think was most important for business applications, and why?
-
-8. **True or False:** Deep Blue defeated Garry Kasparov at chess by using deep learning and neural networks.
-
-9. **Multiple Choice:** Which of the following best describes why AlphaGo's victory over Lee Sedol was more significant than Deep Blue's chess victory?
-   - (a) Go is a more popular game
-   - (b) Go has more possible positions than atoms in the universe, making brute-force search impossible — AlphaGo had to develop "intuition"
-   - (c) Lee Sedol was a more famous player than Kasparov
-   - (d) AlphaGo used expert systems while Deep Blue used neural networks
-
-10. **Short Answer:** Drawing on the cyclical history of AI, what advice would you give to a business executive considering a major AI investment today? Reference at least one historical lesson from this chapter.
-:::
-
 
 ### Discussion: AI History and Business Strategy
 

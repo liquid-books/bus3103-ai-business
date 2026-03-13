@@ -31,8 +31,6 @@ tags:
 
 > 📥 [Download this chapter as PDF](./downloads/ch08-ai-applications-and-the-future-of-work.pdf)
 
-
-
 :::{figure} ../images/ch08-infographic-ai-applications-future.png
 :label: fig-ch08-infographic
 :alt: A comprehensive infographic summarizing AI applications and the future of work, including chatbots, digital twins, supply chain AI, healthcare AI, entrepreneurship, and career strategies
@@ -867,75 +865,6 @@ In each case, your faith provides not a rulebook of easy answers but a compass p
 :::
 
 ## Module Activities
-
-### 📝 Quiz: AI Applications & the Future of Work
-
-:::{exercise} Module 8 Quiz
-:label: ex-ch08-quiz
-
-Test your understanding of AI applications and workforce transformation. Select the best answer for each question.
-
-**1. What is the primary function of a chatbot's knowledge base?**
-a) To store conversation logs
-b) To provide domain-specific information that grounds the chatbot's responses in factual, current data
-c) To train the chatbot's language model
-d) To track user satisfaction metrics
-
-**2. What is RAG (Retrieval-Augmented Generation) in the context of chatbots?**
-a) A type of chatbot programming language
-b) A technique that retrieves relevant documents before generating responses, grounding outputs in factual information
-c) A method for testing chatbot reliability
-d) A measure of chatbot response time
-
-**3. What is a digital twin?**
-a) A backup copy of a software application
-b) A virtual representation of a physical object or system that is continuously updated with real-time data
-c) A duplicate database for disaster recovery
-d) An AI model that copies another AI model
-
-**4. How does AI improve supply chain demand forecasting compared to traditional methods?**
-a) By eliminating the need for historical data
-b) By incorporating external signals like weather, social media, and events alongside historical patterns
-c) By relying solely on human judgment
-d) By using fixed statistical models
-
-**5. What role does blockchain play in supply chain management?**
-a) It speeds up product manufacturing
-b) It provides transparent, tamper-resistant tracking of goods from origin to consumer
-c) It replaces AI in supply chain optimization
-d) It eliminates the need for inventory management
-
-**6. What does "personalized medicine" mean in the context of healthcare AI?**
-a) Doctors personally meeting with every patient
-b) Treatments tailored to individual patients based on their genetics, medical history, and other unique factors
-c) AI that replaces doctors entirely
-d) Medical chatbots for patient communication
-
-**7. How has AI changed entrepreneurship?**
-a) It has made starting a business more expensive
-b) It has no significant impact on small businesses
-c) It has democratized capabilities previously available only to large enterprises, enabling small teams to compete
-d) It has eliminated the need for business knowledge
-
-**8. According to research, AI primarily automates:**
-a) Entire jobs
-b) Individual tasks within jobs
-c) Only manual labor
-d) Only creative work
-
-**9. What is the concept of a "T-shaped professional" in the AI era?**
-a) Someone who only has technical AI skills
-b) A person with broad knowledge across multiple domains plus deep expertise in one specific area
-c) A manager who oversees T-shaped teams
-d) An AI system with multiple capabilities
-
-**10. Which skill category becomes MORE valuable as AI automates routine cognitive tasks?**
-a) Data entry and basic computation
-b) Repetitive analysis and reporting
-c) Emotional intelligence, creativity, and ethical reasoning
-d) Memorization and recall
-:::
-
 
 ### 💬 Discussion: My Career in an AI World
 

@@ -2,7 +2,48 @@
 **CONFIDENTIAL — Not for student distribution**
 
 ## Chapter: Chapter 1: Introduction to AI in Business
-### Quiz Answer Key
+
+### Quiz Questions
+
+**Answer the following 10 questions based on Chapter 1 content.**
+
+1. **Multiple Choice:** Which of the following best describes the current state of artificial intelligence?
+   - (a) AGI has been achieved and is commercially available
+   - (b) All commercial AI systems are narrow AI, designed for specific tasks
+   - (c) AI systems possess true understanding and consciousness
+   - (d) AI has replaced the need for human decision-making in business
+
+2. **True or False:** Generative AI creates new content by truly understanding the meaning of what it produces.
+
+3. **Multiple Choice:** Which type of machine learning would be most appropriate for grouping customers into segments based on purchasing behavior, without predefined categories?
+   - (a) Supervised learning
+   - (b) Unsupervised learning
+   - (c) Reinforcement learning
+   - (d) Transfer learning
+
+4. **Short Answer:** Define "prompt engineering" and explain why it is considered a critical business skill in the age of generative AI.
+
+5. **True or False:** The EU AI Act classifies AI systems into risk categories and imposes requirements based on the level of risk.
+
+6. **Multiple Choice:** Amazon's AI recruiting tool demonstrated bias against women primarily because:
+   - (a) The algorithm was deliberately programmed to prefer male candidates
+   - (b) The training data reflected a decade of male-dominated hiring patterns
+   - (c) Women submitted fewer resumes to Amazon
+   - (d) The system used gender as an explicit input variable
+
+7. **Short Answer:** Explain the difference between "task displacement" and "job displacement" in the context of AI's impact on the workplace. Provide one example.
+
+8. **True or False:** AI hallucination refers to when an AI system generates confident-sounding but factually incorrect information.
+
+9. **Multiple Choice:** Which component of an effective AI prompt establishes the AI's expertise level and perspective?
+   - (a) Context
+   - (b) Role
+   - (c) Constraints
+   - (d) Format
+
+10. **Short Answer:** From a Christian perspective, explain why AI bias is not merely a technical problem but a moral one. Reference at least one Biblical principle in your answer.
+
+### Quiz Answers
 
 1. **(b)** All commercial AI systems are narrow AI, designed for specific tasks.
 2. **False.** LLMs operate through pattern matching and statistical prediction, not genuine understanding.
@@ -17,7 +58,48 @@
 
 
 ## Chapter: Chapter 2: Evolution of AI & Deep Learning
-### Quiz Answer Key
+
+### Quiz Questions
+
+**Answer the following 10 questions based on Chapter 2 content.**
+
+1. **Multiple Choice:** The term "artificial intelligence" was formally coined at which event?
+   - (a) The Turing Award Ceremony, 1950
+   - (b) The Dartmouth Conference, 1956
+   - (c) The ImageNet Challenge, 2012
+   - (d) The release of ChatGPT, 2022
+
+2. **True or False:** The first AI winter was primarily caused by insufficient computing power alone.
+
+3. **Multiple Choice:** AlexNet's victory in the 2012 ImageNet Challenge was significant because:
+   - (a) It was the first time a computer beat a human at chess
+   - (b) It reduced image classification errors by nearly 10 percentage points in one year using deep learning
+   - (c) It introduced the transformer architecture
+   - (d) It was the first expert system
+
+4. **Short Answer:** Explain the concept of "backpropagation" in your own words. Why was it a critical breakthrough for neural networks?
+
+5. **True or False:** The transformer architecture, which powers modern LLMs like ChatGPT, was introduced in 2017.
+
+6. **Multiple Choice:** Expert systems failed in the late 1980s primarily because:
+   - (a) They were too expensive to build
+   - (b) They were brittle, hard to maintain, and couldn't handle situations outside their narrow domain
+   - (c) The internet made them obsolete
+   - (d) Deep learning was already available as a superior alternative
+
+7. **Short Answer:** Describe the three factors that converged to enable the deep learning revolution. Which do you think was most important for business applications, and why?
+
+8. **True or False:** Deep Blue defeated Garry Kasparov at chess by using deep learning and neural networks.
+
+9. **Multiple Choice:** Which of the following best describes why AlphaGo's victory over Lee Sedol was more significant than Deep Blue's chess victory?
+   - (a) Go is a more popular game
+   - (b) Go has more possible positions than atoms in the universe, making brute-force search impossible — AlphaGo had to develop "intuition"
+   - (c) Lee Sedol was a more famous player than Kasparov
+   - (d) AlphaGo used expert systems while Deep Blue used neural networks
+
+10. **Short Answer:** Drawing on the cyclical history of AI, what advice would you give to a business executive considering a major AI investment today? Reference at least one historical lesson from this chapter.
+
+### Quiz Answers
 
 1. **(b)** The Dartmouth Conference, 1956.
 2. **False.** The first AI winter was caused by multiple factors: the combinatorial explosion problem, knowledge bottleneck, frame problem, AND computational limitations. The Lighthill Report (1973) accelerated funding cuts.
@@ -32,6 +114,42 @@
 
 
 ## Chapter: Chapter 3: Natural Language Processing
+
+### Quiz Questions
+
+Test your understanding of the key concepts covered in this chapter. Answer all 10 questions.
+
+**1.** What is Natural Language Processing (NLP)?
+
+
+**2.** Name and explain the five main steps in a text preprocessing pipeline.
+
+
+**3.** What is tokenization, and why is subword tokenization used in modern LLMs?
+
+
+**4.** Explain the difference between sentiment analysis at the document, sentence, and aspect levels.
+
+
+**5.** What is the difference between rule-based, AI-powered, and LLM-powered chatbots?
+
+
+**6.** What is multimodal AI, and how does Google Gemini exemplify this concept?
+
+
+**7.** How is NLP used in recruitment, and what ethical concerns does this raise?
+
+
+**8.** What is the "sarcasm problem" in sentiment analysis, and why is it significant for businesses?
+
+
+**9.** Explain the concept of word embeddings and why the "king - man + woman = queen" example is significant.
+
+
+**10.** From a Christian perspective, what responsibilities do businesses have when deploying NLP technologies in customer-facing applications?
+
+### Quiz Answers
+
 ### Answer
 NLP is a subfield of artificial intelligence that focuses on enabling computers to understand, interpret, generate, and respond to human language in ways that are both meaningful and useful. It combines techniques from computer science, linguistics, and machine learning.
 
@@ -72,6 +190,42 @@ From a Christian perspective, businesses have responsibilities to uphold truth (
 
 
 ## Chapter: Chapter 4: Machine Learning & Large Language Models
+
+### Quiz Questions
+
+Test your understanding of the key concepts covered in this chapter. Answer all 10 questions.
+
+**1.** Define big data and explain the Five V's.
+
+
+**2.** What is a data center, and why are they critical for AI?
+
+
+**3.** Explain the difference between supervised, unsupervised, and reinforcement learning with one business example for each.
+
+
+**4.** What is a Large Language Model (LLM), and how does it generate text?
+
+
+**5.** What are hallucinations in LLMs, and why are they a business risk?
+
+
+**6.** Compare ChatGPT and Claude: What are each model's primary strengths and ideal business use cases?
+
+
+**7.** What makes Perplexity AI different from other LLMs, and when should a business choose it?
+
+
+**8.** What is the difference between cloud-based and on-device mobile AI? Give an advantage of each.
+
+
+**9.** Explain how bias can enter a machine learning pipeline and give one real-world example.
+
+
+**10.** From a Christian stewardship perspective, what environmental concerns should businesses consider when adopting LLM technologies?
+
+### Quiz Answers
+
 ### Answer
 Big data refers to datasets so large, complex, and rapidly generated that traditional processing methods cannot handle them. The Five V's are:
 1. **Volume:** Massive scale of data (petabytes and beyond)
@@ -115,7 +269,48 @@ Training large models consumes enormous energy (equivalent to multiple household
 
 
 ## Chapter: Chapter 5: Computer Vision & AI-Generated Content
-### Quiz Answer Key
+
+### Quiz Questions
+
+**Answer the following 10 questions based on Chapter 5 content.**
+
+1. **Multiple Choice:** What type of neural network architecture is most commonly used for computer vision tasks?
+   - (a) Recurrent Neural Network (RNN)
+   - (b) Convolutional Neural Network (CNN)
+   - (c) Generative Adversarial Network (GAN)
+   - (d) Transformer Network
+
+2. **True or False:** Scene understanding in computer vision refers only to identifying individual objects within an image, not the relationships between them.
+
+3. **Multiple Choice:** Which AI image generation platform was specifically designed with commercially licensed training data to minimize copyright risks?
+   - (a) Midjourney
+   - (b) Stable Diffusion
+   - (c) Adobe Firefly
+   - (d) DALL-E 3
+
+4. **Short Answer:** Explain how diffusion models generate images from text prompts. Describe the basic two-phase process.
+
+5. **Multiple Choice:** Amazon Lens and Google Lens are examples of which computer vision application?
+   - (a) Image classification
+   - (b) Semantic segmentation
+   - (c) Visual search
+   - (d) Instance segmentation
+
+6. **True or False:** The U.S. Copyright Office has ruled that images generated entirely by AI can receive full copyright protection.
+
+7. **Multiple Choice:** In the context of computer vision tasks, which task classifies *every pixel* in an image into a category?
+   - (a) Object detection
+   - (b) Image classification
+   - (c) Semantic segmentation
+   - (d) Feature extraction
+
+8. **Short Answer:** Identify two business applications of computer vision in healthcare and explain why AI-assisted diagnosis is designed to assist physicians rather than replace them.
+
+9. **True or False:** Reverse image search technology can be used to verify the authenticity of images and detect AI-generated content.
+
+10. **Short Answer:** From a Christian perspective, explain the ethical concern with AI systems that can generate images "in the style of" specific living artists. Reference a biblical principle in your answer.
+
+### Quiz Answers
 
 1. **(b)** Convolutional Neural Network (CNN) — specifically designed for processing visual data through hierarchical feature extraction.
 2. **False.** Scene understanding includes comprehending relationships between objects, activities taking place, environmental context, and spatial relationships — not just identifying individual objects.
@@ -130,7 +325,48 @@ Training large models consumes enormous energy (equivalent to multiple household
 
 
 ## Chapter: Chapter 6: AI Ethics, Bias & Digital Responsibility
-### Quiz Answer Key
+
+### Quiz Questions
+
+**Answer the following 10 questions based on Chapter 6 content.**
+
+1. **Multiple Choice:** What is a deepfake?
+   - (a) A type of computer virus that corrupts image files
+   - (b) Synthetic media created by AI to convincingly depict events that never occurred
+   - (c) A social media filter that enhances photographs
+   - (d) An AI-generated text document that mimics a specific author
+
+2. **True or False:** The "liar's dividend" refers to the phenomenon where the existence of deepfake technology allows people to dismiss real evidence as "probably fake."
+
+3. **Multiple Choice:** The "black box problem" in AI refers to:
+   - (a) The physical hardware that houses AI computing systems
+   - (b) The inability to understand how complex AI models arrive at their decisions
+   - (c) The packaging of AI products for commercial sale
+   - (d) The encryption of AI training data for security purposes
+
+4. **Short Answer:** Explain why using historical data to train AI models can perpetuate discrimination, even when the algorithm does not explicitly use protected characteristics like race or gender as inputs.
+
+5. **Multiple Choice:** Which of the following is TRUE about the EU AI Act?
+   - (a) It only applies to AI systems developed within the EU
+   - (b) It classifies AI systems into risk tiers with requirements increasing at each level
+   - (c) It prohibits all uses of artificial intelligence in law enforcement
+   - (d) It does not impose financial penalties for violations
+
+6. **True or False:** It is mathematically possible to satisfy all fairness criteria simultaneously when base rates differ between demographic groups.
+
+7. **Multiple Choice:** Amazon's AI recruiting tool was found to be biased against women primarily because:
+   - (a) The programmers intentionally coded gender discrimination
+   - (b) The training data reflected 10 years of male-dominated hiring patterns
+   - (c) Women were excluded from the testing group
+   - (d) The algorithm weighted physical strength requirements
+
+8. **Short Answer:** Define "Explainable AI (XAI)" and explain why it is important for business applications of artificial intelligence.
+
+9. **True or False:** The U.S. has a single comprehensive federal law governing all uses of artificial intelligence, similar to the EU AI Act.
+
+10. **Short Answer:** Using the FATE framework, identify and explain the four pillars of ethical AI. For one of the pillars, provide a biblical principle that supports it.
+
+### Quiz Answers
 
 1. **(b)** Synthetic media created by AI to convincingly depict events that never occurred.
 2. **True.** The liar's dividend allows people to dismiss genuine evidence by claiming "it could be a deepfake."
@@ -145,7 +381,72 @@ Training large models consumes enormous energy (equivalent to multiple household
 
 
 ## Chapter: Chapter 7: Robotics & AI Cybersecurity
-### Answers / Solution
+
+### Quiz Questions
+
+Test your understanding of robotics and AI cybersecurity concepts. Select the best answer for each question.
+
+**1. What is the primary difference between an industrial robot and a collaborative robot (cobot)?**
+a) Industrial robots are more expensive
+b) Cobots are designed to work safely alongside humans without safety caging
+c) Industrial robots use AI while cobots do not
+d) Cobots can only perform simple tasks
+
+**2. Which type of robot uses AI-powered navigation to dynamically plan routes through environments?**
+a) Automated Guided Vehicle (AGV)
+b) Industrial robot arm
+c) Autonomous Mobile Robot (AMR)
+d) Teleoperated drone
+
+**3. What are the three core components of a modern robot?**
+a) Hardware, software, internet
+b) Sensors, actuators, controllers
+c) Motors, batteries, cameras
+d) CPU, GPU, RAM
+
+**4. In reinforcement learning, what is the "policy"?**
+a) The safety rules for robot operation
+b) The company's AI governance framework
+c) A mapping from states to actions that maximizes cumulative reward
+d) The training dataset used to teach the robot
+
+**5. Which AI technique in cybersecurity builds behavioral baselines for users and flags deviations?**
+a) Signature-based detection
+b) User Behavior Analytics (UBA)
+c) Firewall rules
+d) Password hashing
+
+**6. How has generative AI changed the nature of phishing attacks?**
+a) It has made phishing less effective
+b) It enables perfectly written, personalized phishing at scale
+c) It only affects email-based attacks
+d) It requires advanced programming skills to use
+
+**7. What is an adversarial attack in the context of AI security?**
+a) A traditional denial-of-service attack
+b) Crafting inputs specifically designed to cause AI systems to make errors
+c) Hacking into the AI company's servers
+d) Using AI to attack non-AI systems
+
+**8. What technology enables drones to create 3D models of construction sites?**
+a) Bluetooth
+b) LiDAR and photogrammetry
+c) Standard GPS only
+d) Infrared sensors only
+
+**9. What is the "sim-to-real gap" in reinforcement learning?**
+a) The time difference between simulation and real-world operation
+b) The discrepancy between simulated training environments and real-world conditions
+c) The cost difference between simulation software and real robots
+d) The gap between academic research and commercial products
+
+**10. Which adversarial attack type involves corrupting training data to compromise an AI model?**
+a) Evasion attack
+b) Model extraction
+c) Poisoning attack
+d) Prompt injection
+
+### Quiz Answers
 
 1. **b)** Cobots are designed to work safely alongside humans without safety caging — this is their defining characteristic, incorporating force-limiting technology and advanced sensors.
 
@@ -169,7 +470,72 @@ Training large models consumes enormous energy (equivalent to multiple household
 
 
 ## Chapter: Chapter 8: AI Applications & the Future of Work
-### Answers / Solution
+
+### Quiz Questions
+
+Test your understanding of AI applications and workforce transformation. Select the best answer for each question.
+
+**1. What is the primary function of a chatbot's knowledge base?**
+a) To store conversation logs
+b) To provide domain-specific information that grounds the chatbot's responses in factual, current data
+c) To train the chatbot's language model
+d) To track user satisfaction metrics
+
+**2. What is RAG (Retrieval-Augmented Generation) in the context of chatbots?**
+a) A type of chatbot programming language
+b) A technique that retrieves relevant documents before generating responses, grounding outputs in factual information
+c) A method for testing chatbot reliability
+d) A measure of chatbot response time
+
+**3. What is a digital twin?**
+a) A backup copy of a software application
+b) A virtual representation of a physical object or system that is continuously updated with real-time data
+c) A duplicate database for disaster recovery
+d) An AI model that copies another AI model
+
+**4. How does AI improve supply chain demand forecasting compared to traditional methods?**
+a) By eliminating the need for historical data
+b) By incorporating external signals like weather, social media, and events alongside historical patterns
+c) By relying solely on human judgment
+d) By using fixed statistical models
+
+**5. What role does blockchain play in supply chain management?**
+a) It speeds up product manufacturing
+b) It provides transparent, tamper-resistant tracking of goods from origin to consumer
+c) It replaces AI in supply chain optimization
+d) It eliminates the need for inventory management
+
+**6. What does "personalized medicine" mean in the context of healthcare AI?**
+a) Doctors personally meeting with every patient
+b) Treatments tailored to individual patients based on their genetics, medical history, and other unique factors
+c) AI that replaces doctors entirely
+d) Medical chatbots for patient communication
+
+**7. How has AI changed entrepreneurship?**
+a) It has made starting a business more expensive
+b) It has no significant impact on small businesses
+c) It has democratized capabilities previously available only to large enterprises, enabling small teams to compete
+d) It has eliminated the need for business knowledge
+
+**8. According to research, AI primarily automates:**
+a) Entire jobs
+b) Individual tasks within jobs
+c) Only manual labor
+d) Only creative work
+
+**9. What is the concept of a "T-shaped professional" in the AI era?**
+a) Someone who only has technical AI skills
+b) A person with broad knowledge across multiple domains plus deep expertise in one specific area
+c) A manager who oversees T-shaped teams
+d) An AI system with multiple capabilities
+
+**10. Which skill category becomes MORE valuable as AI automates routine cognitive tasks?**
+a) Data entry and basic computation
+b) Repetitive analysis and reporting
+c) Emotional intelligence, creativity, and ethical reasoning
+d) Memorization and recall
+
+### Quiz Answers
 
 1. **b)** The knowledge base provides domain-specific, current, and authoritative information that grounds the chatbot's responses, preventing reliance on potentially outdated training data.
 

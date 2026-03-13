@@ -29,8 +29,6 @@ tags:
 
 > 📥 [Download this chapter as PDF](./downloads/ch05-computer-vision-and-ai-generated-content.pdf)
 
-
-
 :::{figure} ../images/ch05-infographic-computer-vision.png
 :label: fig-ch05-infographic
 :alt: A comprehensive infographic summarizing computer vision concepts including image classification, object detection, AI image generation, text-to-image models, and ethical considerations in AI art
@@ -651,51 +649,6 @@ For more on the ethical dimensions of visual AI, including deepfakes and manipul
 ---
 
 ## Module 5 Activities
-
-### Quiz: Computer Vision & AI-Generated Content
-
-:::{exercise} Module 5 Quiz
-:label: ex-ch05-quiz
-
-**Answer the following 10 questions based on Chapter 5 content.**
-
-1. **Multiple Choice:** What type of neural network architecture is most commonly used for computer vision tasks?
-   - (a) Recurrent Neural Network (RNN)
-   - (b) Convolutional Neural Network (CNN)
-   - (c) Generative Adversarial Network (GAN)
-   - (d) Transformer Network
-
-2. **True or False:** Scene understanding in computer vision refers only to identifying individual objects within an image, not the relationships between them.
-
-3. **Multiple Choice:** Which AI image generation platform was specifically designed with commercially licensed training data to minimize copyright risks?
-   - (a) Midjourney
-   - (b) Stable Diffusion
-   - (c) Adobe Firefly
-   - (d) DALL-E 3
-
-4. **Short Answer:** Explain how diffusion models generate images from text prompts. Describe the basic two-phase process.
-
-5. **Multiple Choice:** Amazon Lens and Google Lens are examples of which computer vision application?
-   - (a) Image classification
-   - (b) Semantic segmentation
-   - (c) Visual search
-   - (d) Instance segmentation
-
-6. **True or False:** The U.S. Copyright Office has ruled that images generated entirely by AI can receive full copyright protection.
-
-7. **Multiple Choice:** In the context of computer vision tasks, which task classifies *every pixel* in an image into a category?
-   - (a) Object detection
-   - (b) Image classification
-   - (c) Semantic segmentation
-   - (d) Feature extraction
-
-8. **Short Answer:** Identify two business applications of computer vision in healthcare and explain why AI-assisted diagnosis is designed to assist physicians rather than replace them.
-
-9. **True or False:** Reverse image search technology can be used to verify the authenticity of images and detect AI-generated content.
-
-10. **Short Answer:** From a Christian perspective, explain the ethical concern with AI systems that can generate images "in the style of" specific living artists. Reference a biblical principle in your answer.
-:::
-
 
 ### Discussion: The Future of Visual Content Creation
 

@@ -28,8 +28,6 @@ tags:
 
 > 📥 [Download this chapter as PDF](./downloads/ch01-introduction-to-ai-in-business.pdf)
 
-
-
 :::{figure} ../images/ch01-infographic-ai-business.png
 :label: fig-ch01-infographic
 :alt: A comprehensive infographic summarizing key concepts in AI for business, including AI categories, machine learning, generative AI, prompt engineering, and ethical considerations
@@ -941,51 +939,6 @@ Artificial General Intelligence (AGI)
 ---
 
 ## Module 1 Activities
-
-### Quiz: Introduction to AI in Business
-
-:::{exercise} Module 1 Quiz
-:label: ex-ch01-quiz
-
-**Answer the following 10 questions based on Chapter 1 content.**
-
-1. **Multiple Choice:** Which of the following best describes the current state of artificial intelligence?
-   - (a) AGI has been achieved and is commercially available
-   - (b) All commercial AI systems are narrow AI, designed for specific tasks
-   - (c) AI systems possess true understanding and consciousness
-   - (d) AI has replaced the need for human decision-making in business
-
-2. **True or False:** Generative AI creates new content by truly understanding the meaning of what it produces.
-
-3. **Multiple Choice:** Which type of machine learning would be most appropriate for grouping customers into segments based on purchasing behavior, without predefined categories?
-   - (a) Supervised learning
-   - (b) Unsupervised learning
-   - (c) Reinforcement learning
-   - (d) Transfer learning
-
-4. **Short Answer:** Define "prompt engineering" and explain why it is considered a critical business skill in the age of generative AI.
-
-5. **True or False:** The EU AI Act classifies AI systems into risk categories and imposes requirements based on the level of risk.
-
-6. **Multiple Choice:** Amazon's AI recruiting tool demonstrated bias against women primarily because:
-   - (a) The algorithm was deliberately programmed to prefer male candidates
-   - (b) The training data reflected a decade of male-dominated hiring patterns
-   - (c) Women submitted fewer resumes to Amazon
-   - (d) The system used gender as an explicit input variable
-
-7. **Short Answer:** Explain the difference between "task displacement" and "job displacement" in the context of AI's impact on the workplace. Provide one example.
-
-8. **True or False:** AI hallucination refers to when an AI system generates confident-sounding but factually incorrect information.
-
-9. **Multiple Choice:** Which component of an effective AI prompt establishes the AI's expertise level and perspective?
-   - (a) Context
-   - (b) Role
-   - (c) Constraints
-   - (d) Format
-
-10. **Short Answer:** From a Christian perspective, explain why AI bias is not merely a technical problem but a moral one. Reference at least one Biblical principle in your answer.
-:::
-
 
 ### Discussion: The Role of AI in Modern Business
 
