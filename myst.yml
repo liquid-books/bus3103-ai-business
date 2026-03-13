@@ -39,7 +39,11 @@ project:
   exports:
     - format: typst
       article: index.md
-      output: ai-for-business-innovation.pdf
+      output: exports/ai-for-business-innovation.pdf
+      id: full-book-pdf
+  downloads:
+    - id: full-book-pdf
+      title: Download Full Book PDF
   # Numbering
   numbering:
     heading_1: true

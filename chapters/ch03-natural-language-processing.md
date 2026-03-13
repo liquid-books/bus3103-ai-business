@@ -1,6 +1,11 @@
 ---
 exports:
   - format: typst
+    output: exports/ch03-natural-language-processing.pdf
+    id: ch03-natural-language-processing-pdf
+downloads:
+  - id: ch03-natural-language-processing-pdf
+    title: Download Chapter PDF
 title: "Chapter 3: Natural Language Processing"
 subtitle: "Teaching Machines to Understand, Interpret, and Generate Human Language"
 short_title: "Natural Language Processing"
@@ -24,7 +29,6 @@ tags:
 
 # Chapter 3: Natural Language Processing
 
-[Download Chapter as PDF](./ch03-natural-language-processing.pdf)
 
 
 :::{figure} ../images/ch03-infographic-nlp-overview.png

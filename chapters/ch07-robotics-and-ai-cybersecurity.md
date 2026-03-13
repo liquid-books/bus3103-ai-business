@@ -1,6 +1,11 @@
 ---
 exports:
   - format: typst
+    output: exports/ch07-robotics-and-ai-cybersecurity.pdf
+    id: ch07-robotics-and-ai-cybersecurity-pdf
+downloads:
+  - id: ch07-robotics-and-ai-cybersecurity-pdf
+    title: Download Chapter PDF
 title: "Chapter 7: Robotics & AI Cybersecurity"
 subtitle: "Industrial Automation, Intelligent Machines, and Defending the Digital Frontier"
 short_title: "Robotics & AI Cybersecurity"
@@ -24,7 +29,6 @@ tags:
 
 # Chapter 7: Robotics & AI Cybersecurity
 
-[Download Chapter as PDF](./ch07-robotics-and-ai-cybersecurity.pdf)
 
 
 :::{figure} ../images/ch07-infographic-robotics-cybersecurity.png

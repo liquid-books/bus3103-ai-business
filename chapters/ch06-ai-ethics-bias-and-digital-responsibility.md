@@ -1,6 +1,11 @@
 ---
 exports:
   - format: typst
+    output: exports/ch06-ai-ethics-bias-and-digital-responsibility.pdf
+    id: ch06-ai-ethics-bias-and-digital-responsibility-pdf
+downloads:
+  - id: ch06-ai-ethics-bias-and-digital-responsibility-pdf
+    title: Download Chapter PDF
 title: "Chapter 6: AI Ethics, Bias & Digital Responsibility"
 subtitle: "Navigating Deepfakes, Algorithmic Bias, and the Quest for Trustworthy AI"
 short_title: "AI Ethics & Bias"
@@ -24,7 +29,6 @@ tags:
 
 # Chapter 6: AI Ethics, Bias & Digital Responsibility
 
-[Download Chapter as PDF](./ch06-ai-ethics-bias-and-digital-responsibility.pdf)
 
 
 :::{figure} ../images/ch06-infographic-ai-ethics.png

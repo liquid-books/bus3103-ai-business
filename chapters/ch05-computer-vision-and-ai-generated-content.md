@@ -1,6 +1,11 @@
 ---
 exports:
   - format: typst
+    output: exports/ch05-computer-vision-and-ai-generated-content.pdf
+    id: ch05-computer-vision-and-ai-generated-content-pdf
+downloads:
+  - id: ch05-computer-vision-and-ai-generated-content-pdf
+    title: Download Chapter PDF
 title: "Chapter 5: Computer Vision & AI-Generated Content"
 subtitle: "How Machines See the World and Create Visual Content"
 short_title: "Computer Vision & AI Art"
@@ -22,7 +27,6 @@ tags:
 
 # Chapter 5: Computer Vision & AI-Generated Content
 
-[Download Chapter as PDF](./ch05-computer-vision-and-ai-generated-content.pdf)
 
 
 :::{figure} ../images/ch05-infographic-computer-vision.png

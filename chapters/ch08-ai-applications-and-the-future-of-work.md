@@ -1,6 +1,11 @@
 ---
 exports:
   - format: typst
+    output: exports/ch08-ai-applications-and-the-future-of-work.pdf
+    id: ch08-ai-applications-and-the-future-of-work-pdf
+downloads:
+  - id: ch08-ai-applications-and-the-future-of-work-pdf
+    title: Download Chapter PDF
 title: "Chapter 8: AI Applications & the Future of Work"
 subtitle: "Chatbots, Digital Twins, Supply Chain AI, Healthcare AI, and Preparing for an AI-Powered Career"
 short_title: "AI Applications & Future of Work"
@@ -24,7 +29,6 @@ tags:
 
 # Chapter 8: AI Applications & the Future of Work
 
-[Download Chapter as PDF](./ch08-ai-applications-and-the-future-of-work.pdf)
 
 
 :::{figure} ../images/ch08-infographic-ai-applications-future.png

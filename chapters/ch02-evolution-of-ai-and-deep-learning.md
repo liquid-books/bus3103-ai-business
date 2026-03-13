@@ -1,6 +1,11 @@
 ---
 exports:
   - format: typst
+    output: exports/ch02-evolution-of-ai-and-deep-learning.pdf
+    id: ch02-evolution-of-ai-and-deep-learning-pdf
+downloads:
+  - id: ch02-evolution-of-ai-and-deep-learning-pdf
+    title: Download Chapter PDF
 title: "Chapter 2: Evolution of AI & Deep Learning"
 subtitle: "From the Turing Test to the Deep Learning Revolution"
 short_title: "Evolution of AI"
@@ -21,7 +26,6 @@ tags:
 
 # Chapter 2: Evolution of AI & Deep Learning
 
-[Download Chapter as PDF](./ch02-evolution-of-ai-and-deep-learning.pdf)
 
 
 :::{figure} ../images/ch02-infographic-ai-evolution.png

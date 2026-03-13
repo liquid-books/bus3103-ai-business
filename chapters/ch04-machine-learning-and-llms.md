@@ -1,6 +1,11 @@
 ---
 exports:
   - format: typst
+    output: exports/ch04-machine-learning-and-llms.pdf
+    id: ch04-machine-learning-and-llms-pdf
+downloads:
+  - id: ch04-machine-learning-and-llms-pdf
+    title: Download Chapter PDF
 title: "Chapter 4: Machine Learning & Large Language Models"
 subtitle: "Big Data, Data Centers, and the LLMs Reshaping Business"
 short_title: "ML & Large Language Models"
@@ -25,7 +30,6 @@ tags:
 
 # Chapter 4: Machine Learning & Large Language Models
 
-[Download Chapter as PDF](./ch04-machine-learning-and-llms.pdf)
 
 
 :::{figure} ../images/ch04-infographic-ml-llms.png

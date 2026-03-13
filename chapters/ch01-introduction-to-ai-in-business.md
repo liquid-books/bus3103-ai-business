@@ -1,6 +1,11 @@
 ---
 exports:
   - format: typst
+    output: exports/ch01-introduction-to-ai-in-business.pdf
+    id: ch01-introduction-to-ai-in-business-pdf
+downloads:
+  - id: ch01-introduction-to-ai-in-business-pdf
+    title: Download Chapter PDF
 title: "Chapter 1: Introduction to AI in Business"
 subtitle: "Understanding the Foundations of Artificial Intelligence and Its Business Applications"
 short_title: "Introduction to AI"
@@ -21,7 +26,6 @@ tags:
 
 # Chapter 1: Introduction to AI in Business
 
-[Download Chapter as PDF](./ch01-introduction-to-ai-in-business.pdf)
 
 
 :::{figure} ../images/ch01-infographic-ai-business.png
