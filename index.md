@@ -87,12 +87,12 @@ This textbook is under active development. Chapters will be published as they ar
 
 | Chapter | PDF Download |
 |---------|-------------|
-| Full Book | [Download Complete Book](./downloads/ai-for-business-innovation.pdf) |
-| Chapter 1: Introduction to AI in Business | [Download PDF](./downloads/ch01-introduction-to-ai-in-business.pdf) |
-| Chapter 2: Evolution of AI & Deep Learning | [Download PDF](./downloads/ch02-evolution-of-ai-and-deep-learning.pdf) |
-| Chapter 3: Natural Language Processing | [Download PDF](./downloads/ch03-natural-language-processing.pdf) |
-| Chapter 4: Machine Learning & LLMs | [Download PDF](./downloads/ch04-machine-learning-and-llms.pdf) |
-| Chapter 5: Computer Vision & AI-Generated Content | [Download PDF](./downloads/ch05-computer-vision-and-ai-generated-content.pdf) |
-| Chapter 6: AI Ethics, Bias & Digital Responsibility | [Download PDF](./downloads/ch06-ai-ethics-bias-and-digital-responsibility.pdf) |
-| Chapter 7: Robotics & AI Cybersecurity | [Download PDF](./downloads/ch07-robotics-and-ai-cybersecurity.pdf) |
-| Chapter 8: AI Applications & the Future of Work | [Download PDF](./downloads/ch08-ai-applications-and-the-future-of-work.pdf) |
+| Full Book | [Download Complete Book](/bus3103-ai-business/downloads/ai-for-business-innovation.pdf) |
+| Chapter 1: Introduction to AI in Business | [Download PDF](/bus3103-ai-business/downloads/ch01-introduction-to-ai-in-business.pdf) |
+| Chapter 2: Evolution of AI & Deep Learning | [Download PDF](/bus3103-ai-business/downloads/ch02-evolution-of-ai-and-deep-learning.pdf) |
+| Chapter 3: Natural Language Processing | [Download PDF](/bus3103-ai-business/downloads/ch03-natural-language-processing.pdf) |
+| Chapter 4: Machine Learning & LLMs | [Download PDF](/bus3103-ai-business/downloads/ch04-machine-learning-and-llms.pdf) |
+| Chapter 5: Computer Vision & AI-Generated Content | [Download PDF](/bus3103-ai-business/downloads/ch05-computer-vision-and-ai-generated-content.pdf) |
+| Chapter 6: AI Ethics, Bias & Digital Responsibility | [Download PDF](/bus3103-ai-business/downloads/ch06-ai-ethics-bias-and-digital-responsibility.pdf) |
+| Chapter 7: Robotics & AI Cybersecurity | [Download PDF](/bus3103-ai-business/downloads/ch07-robotics-and-ai-cybersecurity.pdf) |
+| Chapter 8: AI Applications & the Future of Work | [Download PDF](/bus3103-ai-business/downloads/ch08-ai-applications-and-the-future-of-work.pdf) |

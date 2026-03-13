@@ -26,7 +26,7 @@ tags:
 
 # Chapter 1: Introduction to AI in Business
 
-> 📥 [Download this chapter as PDF](./downloads/ch01-introduction-to-ai-in-business.pdf)
+> 📥 [Download this chapter as PDF](/bus3103-ai-business/downloads/ch01-introduction-to-ai-in-business.pdf)
 
 :::{figure} ../images/ch01-infographic-ai-business.png
 :label: fig-ch01-infographic

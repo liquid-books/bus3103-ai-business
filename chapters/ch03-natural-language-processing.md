@@ -29,7 +29,7 @@ tags:
 
 # Chapter 3: Natural Language Processing
 
-> 📥 [Download this chapter as PDF](./downloads/ch03-natural-language-processing.pdf)
+> 📥 [Download this chapter as PDF](/bus3103-ai-business/downloads/ch03-natural-language-processing.pdf)
 
 :::{figure} ../images/ch03-infographic-nlp-overview.png
 :label: fig-ch03-infographic
@@ -183,7 +183,7 @@ Text preprocessing is the systematic process of transforming raw text data into 
 
 Let us walk through each stage of the preprocessing pipeline using a practical example. Imagine a business has received the following customer review:
 
-> "I LOVED the new iPhone 15 Pro!!! The camera is absolutely AMAZING 📸 — best I've ever used. Bought it from @BestBuy on 10/15/2024 for $999. #Apple #iPhone15Pro"
+> "I LOVED the new iPhone 15 Pro!!! The camera is absolutely AMAZING 📸 — best I've ever used. Bought it from &#64;BestBuy on 10/15/2024 for $999. #Apple #iPhone15Pro"
 
 This review is perfectly understandable to a human reader, but it contains numerous challenges for a machine: mixed case, punctuation, emojis, special characters, hashtags, mentions, dates, currency, and abbreviations. The preprocessing pipeline handles each of these systematically.
 
@@ -197,7 +197,7 @@ The first step removes noise — characters and elements that do not contribute 
 
 import re
 
-raw_text = "I LOVED the new iPhone 15 Pro!!! The camera is absolutely AMAZING 📸 — best I've ever used. Bought it from @BestBuy on 10/15/2024 for $999. #Apple #iPhone15Pro"
+raw_text = "I LOVED the new iPhone 15 Pro!!! The camera is absolutely AMAZING 📸 — best I've ever used. Bought it from &#64;BestBuy on 10/15/2024 for $999. #Apple #iPhone15Pro"
 
 # Remove URLs, mentions, hashtags, emojis, special characters
 cleaned = re.sub(r'http\S+|@\S+|#\S+', '', raw_text)  # Remove URLs, @mentions, #hashtags

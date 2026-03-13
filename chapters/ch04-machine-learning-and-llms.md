@@ -30,7 +30,7 @@ tags:
 
 # Chapter 4: Machine Learning & Large Language Models
 
-> 📥 [Download this chapter as PDF](./downloads/ch04-machine-learning-and-llms.pdf)
+> 📥 [Download this chapter as PDF](/bus3103-ai-business/downloads/ch04-machine-learning-and-llms.pdf)
 
 :::{figure} ../images/ch04-infographic-ml-llms.png
 :label: fig-ch04-infographic
