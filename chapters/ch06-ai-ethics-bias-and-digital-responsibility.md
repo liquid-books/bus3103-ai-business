@@ -29,6 +29,8 @@ tags:
 
 # Chapter 6: AI Ethics, Bias & Digital Responsibility
 
+> 📥 [Download this chapter as PDF](./downloads/ch06-ai-ethics-bias-and-digital-responsibility.pdf)
+
 
 
 :::{figure} ../images/ch06-infographic-ai-ethics.png

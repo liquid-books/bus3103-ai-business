@@ -27,6 +27,8 @@ tags:
 
 # Chapter 5: Computer Vision & AI-Generated Content
 
+> 📥 [Download this chapter as PDF](./downloads/ch05-computer-vision-and-ai-generated-content.pdf)
+
 
 
 :::{figure} ../images/ch05-infographic-computer-vision.png

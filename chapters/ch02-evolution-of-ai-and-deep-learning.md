@@ -26,6 +26,8 @@ tags:
 
 # Chapter 2: Evolution of AI & Deep Learning
 
+> 📥 [Download this chapter as PDF](./downloads/ch02-evolution-of-ai-and-deep-learning.pdf)
+
 
 
 :::{figure} ../images/ch02-infographic-ai-evolution.png

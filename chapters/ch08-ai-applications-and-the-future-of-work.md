@@ -29,6 +29,8 @@ tags:
 
 # Chapter 8: AI Applications & the Future of Work
 
+> 📥 [Download this chapter as PDF](./downloads/ch08-ai-applications-and-the-future-of-work.pdf)
+
 
 
 :::{figure} ../images/ch08-infographic-ai-applications-future.png

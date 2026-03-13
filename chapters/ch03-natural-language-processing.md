@@ -29,6 +29,8 @@ tags:
 
 # Chapter 3: Natural Language Processing
 
+> 📥 [Download this chapter as PDF](./downloads/ch03-natural-language-processing.pdf)
+
 
 
 :::{figure} ../images/ch03-infographic-nlp-overview.png
