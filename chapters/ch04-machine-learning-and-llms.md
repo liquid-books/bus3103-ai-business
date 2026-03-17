@@ -978,15 +978,6 @@ With multiple powerful LLMs available — ChatGPT, Claude, Gemini, Perplexity, J
 
 2. **Response Posts (2 responses, 150+ words each):** Respond to two classmates. Challenge their recommendation by proposing a scenario where their chosen LLM would fail and an alternative would be better.
 
-**Discussion Rubric:**
-| Criteria | Points |
-|----------|--------|
-| Clear recommendation with business justification | 30 |
-| Comparison with alternatives | 25 |
-| Risk analysis and mitigation | 20 |
-| Quality of response posts (substantive challenge) | 25 |
-| **Total** | **100** |
-
 **Due:** Initial post by Wednesday; responses by Sunday of Module 4 week.
 :::
 

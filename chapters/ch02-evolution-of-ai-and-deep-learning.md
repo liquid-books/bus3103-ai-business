@@ -906,13 +906,6 @@ Respond to at least two classmates. In your responses:
 - If you agree, add evidence that strengthens their argument
 - If you disagree, present a respectful counterargument with evidence
 - Connect their analysis to a specific concept from Chapter 2
-
-**Grading Rubric:**
-- Historical analysis depth (use of chapter content) (30%)
-- Industry analysis with specific AI applications (25%)
-- Critical thinking about current AI landscape (20%)
-- Christian stewardship integration (15%)
-- Quality of peer responses (10%)
 :::
 
 ### Written Analysis: AI Technology Assessment

@@ -698,13 +698,6 @@ In 2024, a deepfake video call convinced a finance worker to transfer $25 millio
 
 **Response Posts (150+ words each):**
 Respond to at least two classmates. Challenge assumptions, offer alternative frameworks, or connect their arguments to specific chapter concepts.
-
-**Grading Rubric:**
-- Depth of responsibility analysis (30%)
-- Policy recommendation specificity (25%)
-- Engagement with multiple stakeholder perspectives (20%)
-- Biblical integration quality (15%)
-- Quality of peer responses (10%)
 :::
 
 ### Written Analysis: AI Bias Audit Report

@@ -921,12 +921,6 @@ The World Economic Forum projects that AI and robotics will displace 85 million 
 - Respond substantively to at least two classmates
 - In your replies, engage with their arguments — don't simply agree or disagree
 - Use specific examples from the chapter or current events
-
-**Grading Criteria:**
-- Depth of analysis (not just surface-level opinions) — 40%
-- Concrete proposals (not vague generalities) — 25%
-- Faith integration (genuine, not formulaic) — 20%
-- Quality of peer engagement — 15%
 :::
 
 ### 📄 Written Analysis: Cybersecurity AI Implementation Proposal

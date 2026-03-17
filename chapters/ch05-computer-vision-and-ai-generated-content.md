@@ -667,13 +667,6 @@ AI image generation tools like DALL-E, Midjourney, and Adobe Firefly can now cre
 
 **Response Posts (150+ words each):**
 Respond to at least two classmates. Build on their arguments, offer alternative perspectives, or challenge assumptions with evidence from the chapter.
-
-**Grading Rubric:**
-- Depth of analysis and use of chapter concepts (30%)
-- Business impact assessment quality (25%)
-- Ethical reasoning and argumentation (20%)
-- Biblical integration and Christian perspective (15%)
-- Quality of peer responses (10%)
 :::
 
 ### Written Analysis: Computer Vision ROI Analysis

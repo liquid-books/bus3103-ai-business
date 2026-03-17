@@ -886,12 +886,6 @@ This is our final discussion — and it's the most personal. We've spent the sem
 - Respond substantively to at least two classmates
 - In your replies, offer encouragement AND constructive suggestions for strengthening their career strategy
 - Share relevant resources, tools, or opportunities you've discovered
-
-**Grading Criteria:**
-- Specificity and self-awareness — 35%
-- Actionable career strategy — 30%
-- Genuine faith integration — 20%
-- Quality of peer engagement — 15%
 :::
 
 ### 📄 Written Analysis: AI Transformation Strategy

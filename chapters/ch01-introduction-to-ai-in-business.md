@@ -959,13 +959,6 @@ Respond to at least two classmates. In your responses:
 - Build on their ideas with specific examples or alternative perspectives
 - Respectfully challenge any assumptions you disagree with
 - Connect their points to concepts from the chapter
-
-**Grading Rubric:**
-- Depth of analysis and use of chapter concepts (30%)
-- Specificity of business process recommendations (25%)
-- Thoughtful risk assessment (20%)
-- Integration of Christian stewardship principles (15%)
-- Quality of peer responses (10%)
 :::
 
 ### Written Analysis: AI Impact Assessment

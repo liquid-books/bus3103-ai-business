@@ -960,15 +960,6 @@ Natural Language Processing is increasingly mediating the relationship between b
 
 2. **Response Posts (2 responses, 150+ words each):** Respond to two classmates who took a different position than yours. Engage substantively — don't just agree or disagree. Challenge their reasoning, offer counterexamples, or build on their ideas.
 
-**Discussion Rubric:**
-| Criteria | Points |
-|----------|--------|
-| Clear position with supporting evidence | 30 |
-| Real-world example and business metric | 25 |
-| Faith integration (authentic, not superficial) | 20 |
-| Quality of response posts | 25 |
-| **Total** | **100** |
-
 **Due:** Initial post by Wednesday; responses by Sunday of Module 3 week.
 :::
 
