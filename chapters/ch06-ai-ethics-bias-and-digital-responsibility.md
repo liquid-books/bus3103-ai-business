@@ -827,17 +827,6 @@ Ask Gemini directly: "What are your limitations in analyzing ethical dilemmas? W
 - Your critical evaluation of each response
 - Analysis of Gemini's ethical reasoning capabilities and limitations
 - A reflection: Can AI be trusted to advise on ethical decisions? Why or why not?
-
-**Grading Rubric:**
-
-| Criteria | Points |
-|----------|:------:|
-| Quality of scenarios presented to Gemini | 15 |
-| Depth of critical evaluation | 30 |
-| Identification of AI ethical limitations | 25 |
-| Christian ethical framework application | 15 |
-| Reflection quality and depth | 15 |
-| **Total** | **100** |
 :::
 
 ### Hands-On Activity 2: Building an AI Ethics Resource Library with NotebookLM
@@ -901,18 +890,6 @@ Using insights from your knowledge base, write a one-page "AI Ethics Policy" tha
 - Ethical framework comparison chart
 - AI Ethics Policy for a small business
 - Brief faith reflection: How should Christian business owners approach AI ethics differently (or similarly) to secular frameworks?
-
-**Grading Rubric:**
-
-| Criteria | Points |
-|----------|:------:|
-| Knowledge base quality and source diversity | 15 |
-| Case analysis depth and pattern recognition | 20 |
-| Ethical framework comparison rigor | 20 |
-| Policy recommendation practicality | 25 |
-| Faith reflection integration | 10 |
-| Overall presentation and organization | 10 |
-| **Total** | **100** |
 :::
 
 ---

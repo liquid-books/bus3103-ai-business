@@ -792,17 +792,6 @@ In this activity, you will explore the multimodal capabilities of Google's Gemin
 - Your evaluation of Gemini's visual AI capabilities (strengths and limitations)
 - Three specific business applications where multimodal AI would create value
 - A brief reflection: How does the ability to "see" change what AI can do for businesses?
-
-**Grading Rubric:**
-
-| Criteria | Points |
-|----------|:------:|
-| Quality and relevance of images selected | 15 |
-| Depth of Gemini interaction (prompt quality) | 25 |
-| Critical evaluation of AI capabilities | 25 |
-| Business application identification | 20 |
-| Reflection quality | 15 |
-| **Total** | **100** |
 :::
 
 ### Hands-On Activity 2: Building a Visual Brand Analysis Assistant (NotebookLM + Gemini)
@@ -859,18 +848,6 @@ Using insights from NotebookLM and Gemini, write a one-page strategic recommenda
 - AI detection experiment results
 - Strategic recommendation with ethical guidelines
 - A brief faith reflection: How does the Christian value of authenticity apply to AI-generated brand imagery?
-
-**Grading Rubric:**
-
-| Criteria | Points |
-|----------|:------:|
-| NotebookLM knowledge base quality | 15 |
-| Brand analysis depth using Gemini | 25 |
-| AI detection experiment rigor | 20 |
-| Strategic recommendation quality | 20 |
-| Faith reflection integration | 10 |
-| Overall presentation and organization | 10 |
-| **Total** | **100** |
 :::
 
 ---

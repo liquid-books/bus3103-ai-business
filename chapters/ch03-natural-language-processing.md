@@ -1161,15 +1161,6 @@ Submit a report (500-700 words) including:
    - What are the business implications of voice-powered AI research tools?
    - Were there moments when the AI's NLP capabilities impressed or disappointed you?
 
-**Grading Rubric:**
-| Criteria | Points |
-|----------|--------|
-| Research depth (8+ voice-powered questions) | 25 |
-| Multimodal testing (image + voice analysis) | 25 |
-| Quality of observations and evaluation | 25 |
-| Reflection depth (personal insight + business implications) | 15 |
-| Presentation and formatting | 10 |
-| **Total** | **100** |
 :::
 ::::
 
@@ -1257,15 +1248,6 @@ Submit a report (500-700 words) including:
    - How might a company use similar NLP technology internally for employee development?
    - As a Christian professional, how do you balance using AI assistance with authentic self-presentation in interviews?
 
-**Grading Rubric:**
-| Criteria | Points |
-|----------|--------|
-| NotebookLM setup and source quality | 15 |
-| Question generation and STAR responses | 25 |
-| NLP feature analysis depth | 25 |
-| Audio overview evaluation | 15 |
-| Reflection quality (insight + faith connection) | 20 |
-| **Total** | **100** |
 :::
 ::::
 

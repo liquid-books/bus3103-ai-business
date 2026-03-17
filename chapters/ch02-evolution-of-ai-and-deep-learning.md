@@ -1054,14 +1054,6 @@ Submit:
 2. Your 300-word written analysis
 3. A reference list (APA format, at least 3 sources)
 
-**Grading Rubric:**
-| Criteria | Points |
-|----------|--------|
-| Timeline quality (visual clarity, accuracy, completeness) | 35 |
-| Research depth (accurate details, meaningful connections) | 25 |
-| Written analysis (insight, prediction, pattern recognition) | 25 |
-| Presentation and sources | 15 |
-| **Total** | **100** |
 :::
 ::::
 
@@ -1147,14 +1139,6 @@ Submit a report (500-600 words) including:
    - A CEO tells you: "We should use the biggest, most complex AI model available — more is always better." Based on your experiments, how would you respond?
    - How does the concept of choosing the right model architecture relate to business decision-making?
 
-**Grading Rubric:**
-| Criteria | Points |
-|----------|--------|
-| Experiment completion and documentation | 30 |
-| Quality of observations | 25 |
-| Analysis depth (understanding of neural network behavior) | 25 |
-| Business connection (practical insight) | 20 |
-| **Total** | **100** |
 :::
 ::::
 

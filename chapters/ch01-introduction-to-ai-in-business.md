@@ -1167,14 +1167,6 @@ Submit a document containing:
 3. Your 300-word recommendation
 4. A reference list (APA format)
 
-**Grading Rubric:**
-| Criteria | Points |
-|----------|--------|
-| Framework quality (comprehensive, practical, includes Christian principles) | 35 |
-| Case research depth and accuracy | 25 |
-| Application of framework to case | 25 |
-| Writing quality and presentation | 15 |
-| **Total** | **100** |
 :::
 ::::
 

@@ -1200,15 +1200,6 @@ Submit a report (600-800 words) including:
    - How did the LLMs handle the ethical reasoning test (Test 5)? Did any model stand out for providing more thoughtful or balanced analysis?
    - As a Christian business professional, what does this tell you about relying on AI for ethical decision-making?
 
-**Grading Rubric:**
-| Criteria | Points |
-|----------|--------|
-| Completeness of testing (all 5 tests, all 4 LLMs) | 25 |
-| Google AI Studio experiments | 20 |
-| Quality of analysis and recommendations | 25 |
-| Ethical reflection | 15 |
-| Presentation and formatting | 15 |
-| **Total** | **100** |
 :::
 ::::
 
@@ -1299,15 +1290,6 @@ Submit a research report (600-800 words) including:
 6. **Faith Connection (100 words):**
    - Proverbs 11:14 says, "For lack of guidance a nation falls, but victory is won through many advisers." How might AI research tools serve as a form of "many advisers" for business leaders? What are the limits of this analogy?
 
-**Grading Rubric:**
-| Criteria | Points |
-|----------|--------|
-| Source quality and diversity (6+ authoritative sources) | 20 |
-| AI analysis depth (all queries completed) | 25 |
-| Critical assessment (accuracy evaluation, missed insights) | 25 |
-| Business application and faith connection | 20 |
-| Presentation and formatting | 10 |
-| **Total** | **100** |
 :::
 ::::
 
